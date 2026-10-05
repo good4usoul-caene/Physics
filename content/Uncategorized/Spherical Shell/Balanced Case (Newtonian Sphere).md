@@ -1,3 +1,8 @@
+
+>[!info]- ### Disavowal:
+I make no claim that the following argumentation is applicable to an  [[Infinite Homogeneous Distribution]].  The discussion that follows only applies to a spherical homogeneous distribution of a given finite radius.  
+
+
 For a sphere homogeneously expanding with Kinetic Energy exactly equal to its gravitational binding energy, the sphere will continue to expand forever with particle velocities asymptotically approaching zero
 
 The form is

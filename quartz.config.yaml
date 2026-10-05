@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/good4usoul-caene/Physics
+  baseUrl: good4usoul-caene.github.io/Physics
   ignorePatterns:
     - private
     - templates

@@ -1,4 +1,4 @@
- Our description of Schwarzschild coordinates should be compatible with two widely accepted experimental results: the [[precession of Mercury]] and the [[deflection of starlight]].  
+ Our description of Schwarzschild coordinates should be compatible with two widely accepted experimental results: the [[Precession of Mercury]] and the [[deflection of starlight]].  
 
 To obtain the starlight deflection our main criteria is to assume that the null interval $d\tau=0$ is obtained for the photon at every step of its path.
 
