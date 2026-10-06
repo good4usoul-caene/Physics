@@ -24,7 +24,17 @@ Numbered list
 
 Going to a particular header on a page:
 
+Footnote[^1]
+Footnote[^3]
+Another Footnote [^2]
+
 Word  (Definition Lists don't work here)
 : Definition
 Another word
 : Another Definition
+
+[^1]: Footnote text
+[^2]: More Footnote Text
+[^3]: Still more footnote text
+
+
