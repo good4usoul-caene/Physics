@@ -106,6 +106,22 @@ If `plugin install` consistently fails near the same plugin with `-c 1`, the iss
 
 ## Content Issues
 
+### Extended MathJax macros from `preamble.sty` don't render
+
+Quartz does not automatically evaluate Obsidian's Extended MathJax preamble loader. In Quartz, the Latex plugin only gets macros that are provided through plugin configuration.
+
+This repository uses a local plugin (`./local-plugins/mathjax-client`) that:
+
+1. reads `content/preamble.sty`
+2. extracts one-line `\newcommand` / `\renewcommand` definitions
+3. injects them into client-side MathJax config
+
+If macros still fail:
+
+1. Confirm each macro definition is on a single line in `preamble.sty`
+2. Re-run build and look for the `Loaded N MathJax macros from ...` log line
+3. Verify the macro uses standard `\newcommand{\Name}[n]{...}` syntax
+
 ### Notes not showing up
 
 - Check that the file is in the `content/` folder

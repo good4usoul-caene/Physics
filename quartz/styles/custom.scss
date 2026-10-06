@@ -1,3 +1,92 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+a,
+.internal,
+.external {
+  text-decoration: underline;
+  text-underline-offset: 0.14em;
+  text-decoration-thickness: 0.08em;
+}
+
+a:hover,
+.internal:hover,
+.external:hover {
+  text-decoration-thickness: 0.12em;
+}
+
+/* Keep wide tables readable without forcing Markdown edits. */
+.table-container {
+  overflow-x: auto;
+  max-width: 100%;
+  margin: 1rem 0;
+}
+
+.table-container > table {
+  margin: 0;
+  width: 100%;
+  table-layout: auto;
+}
+
+/* Math-heavy tables can overflow naturally and use horizontal scroll. */
+.table-container > table:has(mjx-container),
+.table-container > table:has(.MathJax) {
+  min-width: max-content;
+}
+
+.table-container th,
+.table-container td {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  vertical-align: top;
+}
+
+/* Keep math tokens intact; wrap surrounding prose instead. */
+.table-container th mjx-container,
+.table-container td mjx-container,
+.table-container th .MathJax,
+.table-container td .MathJax {
+  white-space: nowrap;
+}
+
+/* Give content more room on desktop when sidebars are present. */
+@media all and (min-width: 1200px) {
+  .page {
+    max-width: 100vw;
+  }
+
+  .page > #quartz-body {
+    grid-template-columns: minmax(240px, 300px) minmax(0, 1fr);
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-footer";
+  }
+
+  .page > #quartz-body .sidebar.right {
+    display: none;
+  }
+
+  .page > #quartz-body .center,
+  .page > #quartz-body footer {
+    width: 100%;
+    min-width: 0;
+  }
+}
+
+/* Tablet: also collapse to two columns so empty right rail doesn't consume a row. */
+@media all and (min-width: 800px) and (max-width: 1199px) {
+  .page > #quartz-body {
+    grid-template-columns: minmax(220px, 280px) minmax(0, 1fr);
+    grid-template-rows: auto auto auto;
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-footer";
+  }
+
+  .page > #quartz-body .sidebar.right {
+    display: none;
+  }
+}

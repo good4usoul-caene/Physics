@@ -91,8 +91,11 @@ plugins:
   - source: "@quartz-community/description"
     enabled: true
     order: 70
-  - source: "@quartz-community/latex"
+  - source: "@good4/mathjax-client"
     enabled: true
+    order: 75
+  - source: "@quartz-community/latex"
+    enabled: false
     options:
       renderEngine: katex
     order: 80
@@ -285,7 +288,9 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+    content:
+      positions:
+        right: []
     folder:
       exclude:
         - reader-mode
