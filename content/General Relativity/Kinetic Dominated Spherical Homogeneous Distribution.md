@@ -1,4 +1,4 @@
-**
+
 
 In this paper, I defined: 
 $$\alpha\equiv\frac
