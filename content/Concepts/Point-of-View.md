@@ -1,5 +1,5 @@
 
-An ideal eye or camera is a ==point of view==.  The eye or camera may be moved around, so it's [[world-line]] is not necessarily straight.  However at any given moment it's motion is well defined.
+An ideal eye or camera is a ==point of view==.  The eye or camera may be moved around, so it's [[world-line]] is not necessarily straight.  However at any given moment it's motion is well defined.  One way of thinking of the camera or eye is as an [[1st and 3rd Person|Avatar]] or a "figure representing a particular person" in reality. 
 
 In order to obtain the coordinates of events relevant to the eye or camera, one must perform the [[Lorentz Transformation]] that renders the camera's current velocity equal to 0.  With this in mind, the correct perspectival distances and times are given at the origin, when
  - **Here:**  ($x'=0$) The spatial coordinate of the camera from the camera's point-of-view is "here", which puts the camera at the origin.

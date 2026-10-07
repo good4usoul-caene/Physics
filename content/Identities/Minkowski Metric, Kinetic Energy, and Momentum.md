@@ -7,14 +7,14 @@ Though the equation relates units of time $(dt, d\tau)$ to units of distance $dx
 
 If we multiply the equation by $m\frac{1}{d\tau^2}$ we may obtain:
 
-$$mc^2=mc^2\Prfrac{dt}{d\tau}^2-m\Prfrac{dx}{d\tau}^2
+$$mc^2=mc^2\left(\frac{dt}{d\tau}\right)^2-m\left(\frac{dx}{d\tau}\right)^2
 $$
 
 The equation is now in units of Energy, and gives a relation between $dt/d\tau$ and $dx/d\tau$  (We could obtain [[Units of Action]]  by multiplying both sides by $d\tau$.)
 
 Instead, let's move the $dt/d\tau$ terms to the left.
 
-$$mc^2d\tau\left(\Prfrac{dt}{d\tau}^2-1\right)=m\Prfrac{dx}{d\tau}^2d\tau$$
+$$mc^2d\tau\left(\left(\frac{dt}{d\tau}\right)^2-1\right)=m\left(\frac{dx}{d\tau}\right)^2d\tau$$
 
 Replace 
 
@@ -30,9 +30,9 @@ $$mc^2(\gamma^2-1)=mc^2\sigma^2$$
 >$$mc^2(\gamma-1)(\gamma+1)d\tau=mc^2\sigma^2d\tau$$
 
 Divide by $\gamma +1$, Obtaining:
-$$\Align{mc^2(\gamma-1)&=\frac{mc^2\sigma^2d\tau}{\gamma+1}
+$$\begin{align}mc^2(\gamma-1)&=\frac{mc^2\sigma^2d\tau}{\gamma+1}
 \\&=\frac{(m^2c^2\beta \gamma)^2}{m(\gamma+1)}
-}$$
+\end{align}$$
 
 The equation is now in a state where we can compare it to the Newtonian approximation:
 $$KE=\frac{p^2}{2m}$$
