@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "mathjax-preamble.ts": {
+      "source": "./mathjax-preamble.ts",
+      "resolved": "C:\\Users\\good4\\quartz\\mathjax-preamble.ts",
+      "commit": "local",
+      "installedAt": "2026-10-06T23:55:16.454Z"
+    }
+  }
+}

@@ -41,6 +41,12 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source: "quartz-community/latex"
+    enabled: true
+    options:
+      renderEngine: mathjax
+  - source: "./.quartz/plugins/mathjax-preamble.ts"
+    enabled: true
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:

@@ -1,4 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://good4usoul-caene.github.io/Physics/boost</loc>
+    <lastmod>2026-10-06T22:17:11.000Z</lastmod>
+  </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/concepts/cartesian-metric-tensor</loc>
     <lastmod>2026-10-05T21:53:23.000Z</lastmod>
   </url><url>
@@ -84,7 +87,7 @@
     <lastmod>2026-10-05T21:53:23.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/identities/hyperbolic-trig-identites</loc>
-    <lastmod>2026-10-05T21:53:23.000Z</lastmod>
+    <lastmod>2026-10-06T22:17:11.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/identities/minkowski-metric,-kinetic-energy,-and-momentum</loc>
     <lastmod>2026-10-05T21:53:23.000Z</lastmod>
@@ -102,7 +105,7 @@
     <lastmod>2026-10-05T21:53:23.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/markdown-notes/markdown-syntax</loc>
-    <lastmod>2026-10-05T21:53:23.000Z</lastmod>
+    <lastmod>2026-10-06T22:17:11.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/markdown-notes/quartz-migration</loc>
     <lastmod>2026-10-05T21:53:23.000Z</lastmod>
@@ -119,6 +122,9 @@
     <loc>https://good4usoul-caene.github.io/Physics/principles-of-pedagogy-and-debate/heuristic-hypotheses</loc>
     <lastmod>2026-10-05T21:53:23.000Z</lastmod>
   </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/principles-of-pedagogy-and-debate/numbers-are-adjectives</loc>
+    <lastmod>2026-10-06T22:17:11.000Z</lastmod>
+  </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/principles-of-pedagogy-and-debate/pin-yourself-down</loc>
     <lastmod>2026-10-05T21:53:23.000Z</lastmod>
   </url><url>
@@ -128,11 +134,17 @@
     <loc>https://good4usoul-caene.github.io/Physics/principles-of-pedagogy-and-debate/questions-before-answers</loc>
     <lastmod>2026-10-05T21:53:23.000Z</lastmod>
   </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/principles-of-pedagogy-and-debate/unitlessness</loc>
+    <lastmod>2026-10-06T22:17:11.000Z</lastmod>
+  </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/principles/zoom-in-principle</loc>
     <lastmod>2026-10-05T21:53:23.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/principles/zoom-out-principle</loc>
     <lastmod>2026-10-05T21:53:23.000Z</lastmod>
+  </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/questions/is-infinity-in-the-range-of-arctan</loc>
+    <lastmod>2026-10-06T22:17:11.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/spacetime</loc>
     <lastmod>2026-10-05T21:53:23.000Z</lastmod>
@@ -153,32 +165,35 @@
     <lastmod>2026-10-05T21:53:23.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/concepts/</loc>
-    <lastmod>2026-10-06T21:26:40.862Z</lastmod>
+    <lastmod>2026-10-07T00:18:42.250Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/descriptive-transformations/</loc>
-    <lastmod>2026-10-06T21:26:40.862Z</lastmod>
+    <lastmod>2026-10-07T00:18:42.250Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/general-relativity/</loc>
-    <lastmod>2026-10-06T21:26:40.862Z</lastmod>
+    <lastmod>2026-10-07T00:18:42.250Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/identities/</loc>
-    <lastmod>2026-10-06T21:26:40.862Z</lastmod>
+    <lastmod>2026-10-07T00:18:42.250Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/markdown-notes/</loc>
-    <lastmod>2026-10-06T21:26:40.862Z</lastmod>
+    <lastmod>2026-10-07T00:18:42.250Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/principles/</loc>
-    <lastmod>2026-10-06T21:26:40.862Z</lastmod>
+    <lastmod>2026-10-07T00:18:42.250Z</lastmod>
+  </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/questions/</loc>
+    <lastmod>2026-10-07T00:18:42.250Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/uncategorized/</loc>
-    <lastmod>2026-10-06T21:26:40.862Z</lastmod>
+    <lastmod>2026-10-07T00:18:42.250Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/uncategorized/spherical-shell/</loc>
-    <lastmod>2026-10-06T21:26:40.862Z</lastmod>
+    <lastmod>2026-10-07T00:18:42.250Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/tags</loc>
-    <lastmod>2026-10-06T21:26:40.862Z</lastmod>
+    <lastmod>2026-10-07T00:18:42.250Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/tags/</loc>
-    <lastmod>2026-10-06T21:26:40.862Z</lastmod>
+    <lastmod>2026-10-07T00:18:42.250Z</lastmod>
   </url></urlset>
