@@ -46,9 +46,9 @@ $$mc^2(\gamma^2-1)=mc^2\sigma^2$$
 ### Divide
 
 Divide by $\gamma +1$, Obtaining:
-$$\begin{align}mc^2(\gamma-1)&=\frac{mc^2\sigma^2d\tau}{\gamma+1}
-\\&=\frac{(m^2c^2\beta \gamma)^2}{m(\gamma+1)}
-\end{align}$$
+$$mc^2(\gamma-1)=\frac{mc^2\sigma^2d\tau}{\gamma+1}
+\\=\frac{(m^2c^2\beta \gamma)^2}{m(\gamma+1)}
+$$
 
 ### Compare
 

@@ -142,9 +142,9 @@ $$n:[0,1,2,3]\to[0,1,2,3...]$$
 $$(-1)^n:[0,1,2,3,...]\to[1,-1,1,-1,...]$$
 $$2n+1:[0,1,2,3]\to[1, 3, 5, 7...]$$
 A more convenient way to write this would be
-$$\begin{align}\sin\theta&=\sum_{n\in\{1,3,5,...\}}\frac{(-1)^{(n-1)/2}}{n!}\theta^n
-\\&=+\frac{\theta^1}{1!}-\frac{\theta^3}{3!}+\frac{\theta^5}{5!}-\frac{\theta^7}{7!}+...
-\end{align}$$
+$$\sin\theta=\sum_{n\in\{1,3,5,...\}}\frac{(-1)^{(n-1)/2}}{n!}\theta^n
+\\=+\frac{\theta^1}{1!}-\frac{\theta^3}{3!}+\frac{\theta^5}{5!}-\frac{\theta^7}{7!}+...
+$$
 Or we could invoke a notation that simply shows the patterns explicitly, term-by-term.
 $$\sin\theta=\sum\frac{[1,-1,1,-1,...]}{[1!,3!,5!,7!]}\theta^{[1,3,5,7]}$$
 

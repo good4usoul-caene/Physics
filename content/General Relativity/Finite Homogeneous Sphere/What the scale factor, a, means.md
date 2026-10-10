@@ -1,13 +1,13 @@
 We have three separate r's to consider.  r(t) can be associated with any particle in the system.  $r_\text{max}(t_1)$ is the radius of the full distribution at time $t_1$.  $r_\text{max}(t)$ is the radius of the full sphere at any time.  
 
-$$\begin{align}\rho_1&=\frac{M}{V_1}
-\\&=\frac{3M}{4\pi r_\text{max}(t_1)^3}
-\end{align}$$
+$$\rho_1=\frac{M}{V_1}
+\\=\frac{3M}{4\pi r_\text{max}(t_1)^3}
+$$
 
 Can I get a simple expression for $\rho(t)$?   How about one for $a$?  We're using $a$ to represent a function of t that expresses the overall scale of the distribution.  For instance
 
-$$\begin{align}a&=\frac{r_\text{max}(t)}{r_\text{max}(t_1)}
-\\&=\frac{r(t)}{r(t_1)}\end{align}$$
+$$a=\frac{r_\text{max}(t)}{r_\text{max}(t_1)}
+\\=\frac{r(t)}{r(t_1)}$$
 Since $$V=\frac{4}{3}\pi r^3$$
 We can replace $r(t)=a(t)\cdot r(t_1)$ 
 

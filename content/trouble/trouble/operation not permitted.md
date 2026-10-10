@@ -1,1 +1,1 @@
-Try Running with administrator priveleges
+Try Running with administrator privileges

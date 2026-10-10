@@ -5,8 +5,8 @@ $$\alpha\equiv\frac
 {\text{Kinetic energy per particle}}
 {\text{Gravitational potential per particle}}$$I used Newtonian expressions for Gravitational Potential Energy and Kinetic Energy
 
-$$\begin{align}E/m &= \text{Kinetic Energy Per Particle}-\text{Binding Energy Per Particle}
-\\E/m &= \frac{1}{2}v^2-\frac{GM_\text{enclosed}}{r}\end{align}$$
+$$E/m = \text{Kinetic Energy Per Particle}-\text{Binding Energy Per Particle}
+\\E/m = \frac{1}{2}v^2-\frac{GM_\text{enclosed}}{r}$$
 
 ###  Orbiting Case
 

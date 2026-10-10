@@ -7,7 +7,8 @@ The transformation of interest converts from ==polar coordinates== to ==rectangu
 
 ## Two Dimensional Space (Stationary Points)
 
-1. Horizontal lines:  $$\begin{align}y&=\text{constant}\\\Rightarrow  dy &= 0\end{align}$$
-2. Vertical Lines:  $$\begin{align}x&=\text{constant}\\\Rightarrow dx&=0\end{align}$$
-3. Circles around the origin:  $$\begin{align}r&=\text{constant}\\\Rightarrow  dr &= 0\end{align}$$
-4. Rays pointing from the center: $$\begin{align}\phi&=\text{constant}\\\Rightarrow  d\phi &= 0\end{align}$$
+1. Horizontal lines:  $$y=\text{constant}\qquad \Rightarrow \qquad dy=0$$
+   
+2. Vertical Lines:  $$x=\text{constant}\\\Rightarrow dx=0$$
+3. Circles around the origin:  $$\boxed{r=\text{constant}}\Rightarrow  \boxed{dr = 0}$$
+4. Rays pointing from the center: $$\phi=\text{constant}\quad\Rightarrow\quad  d\phi = 0$$

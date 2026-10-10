@@ -84,12 +84,12 @@ $$KE-\frac{p_r^2+p_\phi^2}{2m}=\gamma PE$$
 Side By Side Comparison of the two calculations:  
 
 Applying the following definitions and approximations:  
-$$\begin{align}KE&=mc^2(\gamma-1)
-\\1&\approx 1-\frac{2GM}{c^2r}&
-\\2&\approx\gamma+1
-\\p_r&=m\frac{dr}{d\tau}=mc\beta_r\gamma
-\\p_\phi&=m\frac{rd\phi}{d\tau}=mc\beta_\phi\gamma
-\end{align}$$
+$$KE=mc^2(\gamma-1)$$
+$$1\approx 1-\frac{2GM}{c^2r}$$
+$$2\approx\gamma+1$$
+$$p_r=m\frac{dr}{d\tau}=mc\beta_r\gamma$$
+$$p_\phi=m\frac{rd\phi}{d\tau}=mc\beta_\phi\gamma$$
+
 
 | Speculative version of Schwarzschild based on clock slowing only. | Official Version of Schwarzschild Metric |
 | ----------------------------------------------------------------- | ---------------------------------------- |
