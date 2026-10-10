@@ -34,12 +34,25 @@ a:hover,
   min-width: max-content;
 }
 
-.katex-display {
-  display: block;
+/* Center all KaTeX equations */
+.katex {
+  display: block !important;
   text-align: center !important;
   margin-left: auto !important;
   margin-right: auto !important;
 }
+
+/* Add vertical spacing between equations */
+.katex + .katex {
+  margin-top: 1.2rem;   /* adjust to taste */
+}
+
+/* Optional: add spacing above/below any display math */
+p > .katex {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 
 .table-container th,
 .table-container td {
