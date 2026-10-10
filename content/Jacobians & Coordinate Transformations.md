@@ -1,5 +1,0 @@
-### Important Premise
-A Jacobian that maps $(d\tau,dr,d\theta,d\phi)\to(t,x,y,z)$ does not render the $(t,x,y,z)$ coordinates [[Claims of Meaninglessness|meaningless]]!  This is one of the most commonly repeated misconceptions of General Relativity, that somehow gravitation has rendered [[Minkowski Coordinates]], distant time, and distant velocities *meaningless* simply by invoking a metric tensor.  But the purpose of that metric tensor is not to render the [[Euclidean Points and Parallel World Lines|Minkowski Coordinates]] meaningless.  To the contrary, the metric tensor treats the Minkowski coordinates like the Holy Grail--It is the ==ultimate aim== of the metric tensor to translate any arbitrary or ==general== coordinates into a valid measure of metric via the Minkowski coordinates.
-
-### Example Jacobians
- - [[Polar to Rectangular Transformation]] 
