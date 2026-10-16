@@ -28,9 +28,4 @@
  - [[Kinetic Dominated Spherical Homogeneous Distribution]]
  - [[What the scale factor, a, means]]
  - [[Solving The Balanced Case (Newtonian Sphere)]]
- - 
-
-- 
-
-- 
-- [[Inertial Reference Frame]]
+ 

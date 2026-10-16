@@ -12,7 +12,5 @@ If you have the means to boost yourself to arbitrary velocities, you can, withou
 ## "Without Touching It" 
 Some might object, saying "But I could take out the clock's batteries, or stop its pendulum so that it doesn't read 3 PM.  So can you make the reading go away?  Yes, but once you touch the clock, you're creating other events that no one else can make "go away" unless they can physically pre-empt or undo your act.
 
-## Examples
 
-### Obviously Relative
 
