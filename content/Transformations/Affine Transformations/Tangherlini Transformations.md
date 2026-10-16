@@ -1,3 +1,6 @@
+| Demo                                                                | Info                                                                                                                        |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| [Tangherlini Attempt](https://www.desmos.com/calculator/wraz9gwgmq) | This demonstration offers a slider showing options for four different "Transformations"  of the circular reflecting mirror. |
 
 [Chandru Iyer](https://www.researchgate.net/profile/Chandru-Iyer?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicXVlc3Rpb24iLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19)
 
