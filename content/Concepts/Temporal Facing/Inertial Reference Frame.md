@@ -1,0 +1,1 @@
+An Inertial Reference Frame consists of an infinite number of [[Euclidean Points and Parallel World Lines]].

@@ -1,0 +1,4 @@
+| Demonstration                                                 | Info                                                                                                                  |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| [Twin Paradox ](https://www.desmos.com/calculator/illkmrqomt) | Makes a distinction between the [[Image Location vs Simultaneous Location\|Image Distance]] and Simultaneous Distance |
+|                                                               |                                                                                                                       |
