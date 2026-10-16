@@ -49,3 +49,6 @@ $$d(\mu\rightarrow)g_{\mu\nu}d(\nu\downarrow)=d(\mu\rightarrow)
 \overset{g_{\overset{\rightarrow}{\mu}\overset{\downarrow}{\nu}}}{\boxed{\overset{(\Lambda{^\alpha}{\mu})^t}{\boxed{\frac{\partial x^{\alpha\rightarrow}}{\partial x^{\mu\downarrow}}}}\eta_{\overset{\downarrow}{\alpha}\overset{\rightarrow}{\beta}}\overset{\Lambda{^\beta}{_\nu}}{\boxed{\frac{\partial x^{\beta\downarrow}}{\partial x^{\nu\rightarrow}}}}}}d(\nu\downarrow)$$
 
 The arrows should help in creating matrix representations of each of these parts.  Though we still may have to do 4x4x4x4 additions to calculate $g_{\mu\nu}$, at least by putting them into matrices we may start with everything neatly organized from start to finish.
+
+### Preprints
+ - [(PDF) Einstein Matrix Hybrid Notation](https://www.researchgate.net/publication/357635693_Einstein_Matrix_Hybrid_Notation) 

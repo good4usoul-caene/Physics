@@ -10,3 +10,8 @@ However, an infinite homogeneous distribution also has **cylindrical symmetry** 
 
 Since no choice of point, line, or plane gives the same answer for the gravitational field at any point, the most conservative expectation for the gravitational field on a particle in an infinite homogeneous distribution is that it would be zero.  
 See [[Invariant and Relative Quantities]] to see a list of quantities where choice of observer may cause a quantity to go away.
+
+### Preprints
+ - [(PDF) The Misuse of Riemannian Rearrangement in Modern Cosmology](https://www.researchgate.net/publication/358576296_The_Misuse_of_Riemannian_Rearrangement_in_Modern_Cosmology)
+ - [(PDF) Musings on Susskind's second cosmology lecture](https://www.researchgate.net/publication/358271369_Musings_on_Susskind's_second_cosmology_lecture)
+ - 

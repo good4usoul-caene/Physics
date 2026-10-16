@@ -1,0 +1,7 @@
+My current [[Leading Hypothesis]] regarding the universe is that there were two "bangs", one being the much larger explosion from a literal singularity: a point in space and time, as shown in the animation here:[Big Bang Distributions | Desmos](https://www.desmos.com/calculator/q5lzq0l7kx).  Based on current claims of the furthest observed galaxies (over 40 billion light years away), the time of that first event must have been over 40 billion years ago.  However, there is evidence of hypernova explosions; that evidence being that we have directly observed hypernova explosions at great distances in space.  Though such events occur rarely now, the number of such events needed to explain the [[Hubble Tension]] is one.  If it occurred 13.7 billion years ago, it would explain why nearby galaxies seemed to have come from an explosion only 13.7 billion years ago, while far-away galaxies seem to have come from an explosion over 40 billion years ago.
+
+### Pre-prints
+- [(PDF) Milne Cosmology in the Context of Current Popular Science](https://www.researchgate.net/publication/354554939_Milne_Cosmology_in_the_Context_of_Current_Popular_Science)
+- [(PDF) A Kinematic Explanation for the CMBR Dipole Anisotropy](https://www.researchgate.net/publication/356944684_A_Kinematic_Explanation_for_the_CMBR_Dipole_Anisotropy)
+- [(PDF) A Simple Estimate of Temperature for Cosmological Inflation in Minkowski Spacetime](https://www.researchgate.net/publication/339987834_A_Simple_Estimate_of_Temperature_for_Cosmological_Inflation_in_Minkowski_Spacetime)
+- 

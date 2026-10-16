@@ -20,3 +20,6 @@ This will render all events in the [[Spacetime]] to the correct perspectival dis
 The events ==most relevant== to the point-of-view are those who are currently being seen.  The spatial coordinate of the [[Image Location vs Simultaneous Location|Image]] of an object with a given world-line, is the location where that world-line intersects the past light-cone of the 
 
 **Clarification:** Two observers at the same point in space and time, but having two different velocities share the same past light-cone, so the locus of events observed by each is the same.  However, they do not see these same events at the same coordinates.  They also share the same future light-cone.  So, for instance, if the two particles collide, light from that collision would share the same locus of events as well. 
+
+### Pre-Prints
+ - [(PDF) Temporal Facing](https://www.researchgate.net/publication/414062007_Temporal_Facing) 

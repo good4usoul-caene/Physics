@@ -18,3 +18,13 @@ Observers on the rim have two main choices for how to set and synchronize their 
 
 There are more demonstrations with regards to the Sagnac Effect at [[List of Sagnac Related Demonstrations]].
 
+### Preprints
+ - [(PDF) The Sagnac "Clockwise" Error](https://www.researchgate.net/publication/400798049_The_Sagnac_Clockwise_Error)
+ - [(PDF) Desync of Inertial and NonInertial Patches](https://www.researchgate.net/publication/410636641_Desync_of_Inertial_and_NonInertial_Patches)
+ - [(PDF) Head-Turning Coordinates in the Sagnac Debate](https://www.researchgate.net/publication/413537253_Head-Turning_Coordinates_in_the_Sagnac_Debate)
+ - [(PDF) Accelerated Paths and Frames](https://www.researchgate.net/publication/359698443_Accelerated_Paths_and_Frames)
+ - [(PDF) Twin Paradox in Circular Motion](https://www.researchgate.net/publication/352781670_Twin_Paradox_in_Circular_Motion)
+ - [(PDF) Ehrenfest Paradox Animation: Relativistic Rolling Wheel](https://www.researchgate.net/publication/353192851_Ehrenfest_Paradox_Animation_Relativistic_Rolling_Wheel)
+ - [(PDF) Reaction to "Why the Sagnac Effect Favors Absolute over Relative Simultaneity"](https://www.researchgate.net/publication/356944506_Reaction_to_Why_the_Sagnac_Effect_Favors_Absolute_over_Relative_Simultaneity)
+ - 
+ - 
