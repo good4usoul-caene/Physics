@@ -1,3 +1,12 @@
+
+# Welcome
+
+Independent research on physics, relativity, and related topics.
+
+> ☕ If you find this work useful, interesting, or thought-provoking, you can support future research on Ko-fi:
+> 
+> https://ko-fi.com/jonathandoolin
+
 ### Important Concepts
 - [[Euclidean Points and Parallel World Lines]]
 - [[Point-of-View]]
@@ -20,6 +29,7 @@
 - [[Lorentz Transformation]]
 - [[Jacobians & Coordinate Transformations]], [[Jacobian]], [[Einstein Notation]] , [[Differential Path Elements]]
 - [[Polar to Rectangular Transformation]], [[Spherical to Rectangular Coordinates]]
+- [[Einstein's 1920 Derivation of LT]] [[Lorentz Transformations]]
 - [[Tangherlini Transformations 1|Tangherlini Transformations 1]]
 
 ### Models
@@ -28,9 +38,8 @@
  - [[What the scale factor, a, means]]
  - [[Solving The Balanced Case (Newtonian Sphere)]]
 
-
 ### Pre-Prints
- - https://www.researchgate.net/profile/Jonathan-Doolin/research
+ - All of these pre-prints are available at Researchgate at https://www.researchgate.net/profile/Jonathan-Doolin/research.  
  
 | Preprint                                                                                                                                                                                                                                 | Description                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -43,7 +52,7 @@
 | [(PDF) Desync of Inertial and NonInertial Patches](https://www.researchgate.net/publication/410636641_Desync_of_Inertial_and_NonInertial_Patches)                                                                                        | [[Sagnac Effect]]                                                             |
 | [(PDF) Causal Stitching Coordinates for an Accelerated Observer in 1 + 1 Dimensions](https://www.researchgate.net/publication/409094426_Causal_Stitching_Coordinates_for_an_Accelerated_Observer_in_1_1_Dimensions)                      | [[Image Location vs Simultaneous Location]]                                   |
 | [(PDF) Just Questions](https://www.researchgate.net/publication/408308637_Just_Questions)                                                                                                                                                |                                                                               |
-| [(PDF) The Sagnac "Clockwise" Error](https://www.researchgate.net/publication/400798049_The_Sagnac_Clockwise_Error)                                                                                                                      | [[Sagnac Effect]]]                                                            |
+| [(PDF) The Sagnac "Clockwise" Error](https://www.researchgate.net/publication/400798049_The_Sagnac_Clockwise_Error)                                                                                                                      | [[Sagnac Effect]]                                                             |
 | [(PDF) Diagnostic Questionnaire](https://www.researchgate.net/publication/402068674_Diagnostic_Questionnaire)                                                                                                                            |                                                                               |
 | [(PDF) A List of Special Relativity Demonstrations](https://www.researchgate.net/publication/401369884_A_List_of_Special_Relativity_Demonstrations)                                                                                      |                                                                               |
 | [(PDF) Trying-To-Read-Einstein-Videos.txt](https://www.researchgate.net/publication/401028680_Trying-To-Read-Einstein-Videostxt)                                                                                                         |                                                                               |
