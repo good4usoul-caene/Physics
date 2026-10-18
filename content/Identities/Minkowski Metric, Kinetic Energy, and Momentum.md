@@ -56,25 +56,13 @@ The equation is now in a state where we can compare it to the Newtonian approxim
 $$KE=\frac{p^2}{2m}$$
 Here is a table that compares the exact relations to the Newtonian approximation:
 
-|                            | LHS (Energy)        | RHS                                         | Momentum                      |
-| -------------------------- | ------------------- | ------------------------------------------- | ----------------------------- |
-| Exact                      | $$mc^2(\gamma-1)$$  | $$\frac{(m\gamma \beta c)^2}{m(\gamma+1})$$ | $$m\gamma \beta c=\gamma mv$$ |
-| Newtonian<br>Approximation | $$\frac{1}{2}mv^2$$ | $$\frac{p^2}{2m}$$                          | $$mv=m\beta c$$               |
+|                            | [[Abbreviations#^a2cbeb\|LHS]] (Energy) | [[Abbreviations#^2c3497\|RHS]]              | Momentum                      |
+| -------------------------- | --------------------------------------- | ------------------------------------------- | ----------------------------- |
+| Exact                      | $$mc^2(\gamma-1)$$                      | $$\frac{(m\gamma \beta c)^2}{m(\gamma+1})$$ | $$m\gamma \beta c=\gamma mv$$ |
+| Newtonian<br>Approximation | $$\frac{1}{2}mv^2$$                     | $$\frac{p^2}{2m}$$                          | $$mv=m\beta c$$               |
 
 Related links:
  - [[Taylor expansion of gamma]]
  - [[Taylor and Maclaurin Expansion]] 
 
 
-
-
-We could take the Taylor expansion series of $\gamma -1$ and it yields $\frac{\beta^2}{2}$ to second order.  While $\gamma+1$ is what... $(2+\beta^2/2)=2$, to first order?  And $c\sigma=c\beta\gamma=\gamma v$ exactly, so the previous equation approximates to
-
-$$ m \left(\frac{v^2}{2}+...\right) = \frac{m (\describe{\gamma}{1} v)^2}{2+\describe{\left(\frac{\beta^2}{2}+...\right)}{0}}=\frac{(mv)^2}{2m}$$
-This is very close to 
-
-$$K=\frac{p^2}{2m}$$
-| Newtonian <br>Approximation | $$\frac{1}{2}mv^2$$ | $$\frac{p^2}{2m}$$                          | $$m\beta c$$        |
-
-Where $$\gamma = \frac{c dt}{c d\tau}$$, $$\beta = \frac{dx}{c dt}$$, $$\beta\gamma = \sigma = \frac{dx}{c d\tau}$$
-$$\beta c=\frac{dx}{dt}=v$$
