@@ -1,7 +1,7 @@
 
 It is intended that this page should obtain two valid metrics, for coordinates $(ct,x)$ and for coordinates $(t,x)$
 
-We begin with the Lorentz Transformation to rapidity $\eta$ in one-dimension where $\sigma=\sinh\eta$ and $\gamma=\cosh\eta$.
+We begin with the Lorentz Transformation to [[rapidity]] $\eta$ in one-dimension where $\sigma=\sinh\eta$ and $\gamma=\cosh\eta$.
 
 With $(ct,x)$, the transformation is:
 

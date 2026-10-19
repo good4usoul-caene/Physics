@@ -30,7 +30,7 @@
 - [[Jacobians & Coordinate Transformations]], [[Jacobian]], [[Einstein Notation]] , [[Differential Path Elements]]
 - [[Polar to Rectangular Transformation]], [[Spherical to Rectangular Coordinates]]
 - [[Einstein's 1920 Derivation of LT]] [[Lorentz Transformations]]
-- [[Tangherlini Transformations 1|Tangherlini Transformations 1]]
+- [[Tangherlini Transformations]]
 
 ### Models
  - [[Infinite Homogeneous Distribution]]
@@ -41,7 +41,7 @@
 ### Pre-Prints
  - All of these pre-prints are available at Researchgate at https://www.researchgate.net/profile/Jonathan-Doolin/research.  
  
-| Preprint                                                                                                                                                                                                                                 | Description                                                                   |
+| Preprint                                                                                                                                                                                                                                 | Topic                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [(PDF) Long Straight Wire and Lorentz Transformation](https://www.researchgate.net/publication/414519718_Long_Straight_Wire_and_Lorentz_Transformation)                                                                                  | [[Electrodynamics]]]                                                          |
 | [(PDF) Temporal Facing](https://www.researchgate.net/publication/414062007_Temporal_Facing)                                                                                                                                              | [[1st and 3rd Person]], [[Point-of-View]]                                     |
@@ -81,4 +81,11 @@
 | [(PDF) The Twin Paradox Spacetime Animation Temporal Facing and Isocline Demonstration](https://www.researchgate.net/publication/314750827_The_Twin_Paradox_Spacetime_Animation_Temporal_Facing_and_Isocline_Demonstration)              | [[Twin Paradox]]                                                              |
 | [(PDF) Radar Time and Temporal Facing: A Distinction of Two Compatible Ideas](https://www.researchgate.net/publication/314235352_Radar_Time_and_Temporal_Facing_A_Distinction_of_Two_Compatible_Ideas)                                   | - [[Distant Simultaneity]] <br> - [[Image Location vs Simultaneous Location]] |
 
+| Animations                                                                    | Topic                           |
+| ----------------------------------------------------------------------------- | ------------------------------- |
+| [Multi-Partitions](https://www.desmos.com/calculator/clvf2lr0e8) <br>         | Kinematic Big Bang Theory       |
+| [[List of Sagnac Related Demonstrations]]                                     | Sagnac Effect                   |
+| [7/29/26-Response2 \| Desmos](https://www.desmos.com/3d/qqsh3wmqp7)           | [[Metric Isoclines]]            |
+| [Points on Hyperbola \| Desmos](https://www.desmos.com/3d/dggqx47tmu)         | [[Minkowski Coordinates]]       |
+| [Tangherlini Attempt \| Desmos](https://www.desmos.com/calculator/wraz9gwgmq) | [[Tangherlini Transformations]] |
 

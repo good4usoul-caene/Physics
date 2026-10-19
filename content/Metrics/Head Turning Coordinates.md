@@ -83,4 +83,4 @@ $$=-(cdt)^2-\left(\frac{\beta_2}{\beta_\phi\gamma_\phi}\right)^2(cdt)^2+2(\frac{
 $$=-(cdt)^2\left[\left(\frac{\beta_2}{\gamma_\phi\beta_\phi}\right)^2+2\frac{\beta_2}{\beta_\phi}\right]-(cdt)^2+dr^2$$
 $$=-(cdt)^2\left[\frac{\beta_2}{\beta_\phi}\left(\frac{1}{\gamma_\phi^2}+2\right)+1\right]+dr^2$$
 
-The division by zero problem that occurs when $\beta_\phi=0$ is problematic.  We should be looking for a result that reduces to $-(cd\tau)^2=-(cdt)^2+(rd\phi')^2$ when the rapidity is zero.  
+The division by zero problem that occurs when $\beta_\phi=0$ is problematic.  We should be looking for a result that reduces to $-(cd\tau)^2=-(cdt)^2+(rd\phi')^2$ when the [[rapidity]] is zero.  

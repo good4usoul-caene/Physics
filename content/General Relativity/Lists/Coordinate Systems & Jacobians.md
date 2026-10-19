@@ -13,7 +13,7 @@ Accelerating
 - [[Newtonian Coordinates]] Acceleration follows $x=1/2 a t^2$ hence getting faster than light after some time.
 
 Initial Distribution
-- [[Milne Coordinates]]  Each of an infinite number of particlse emanating from a single event in time in space has an initial rapidity.
+- [[Milne Coordinates]]  Each of an infinite number of particlse emanating from a single event in time in space has an initial [[rapidity]].
 
 
 [[Jacobians & Coordinate Transformations]]

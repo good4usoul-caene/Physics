@@ -19,10 +19,10 @@ Conceptually a **Boost** means we are imagining an observer who is changing velo
 A boost is generally imagined to be instantaneous, which means there is a sudden change in perspective.  But what is the actual distinction between an instantaneous and gradual boost?  We can imagine an instantaneous boost geometrically as a hyperbolic rotation around a single event in spacetime.  But as we imagine it, time is actually passing.  The event remains in place on the spacetime diagram.  All the events follow hyperbolas around it.  The lattice of spacetime skews along the $x=ct$ and $x=-ct$ axes.  Move away from the single event, and some of the hyperbolic paths can represent an extended accelerating body in the [[Rindler Coordinates]].
 
 ### Rapidity
-The Lorentz Transformations are best expressed in terms of a quantity called **Rapidity** of the boost.  The rapidity of the boost is $$\eta=\operatorname{arctanh}(v/c)$$
+The Lorentz Transformations are best expressed in terms of a quantity called **[[rapidity]]** of the boost.  The [[rapidity]] of the boost is $$\eta=\operatorname{arctanh}(v/c)$$
 Rapidity will be used extensively in the discussions on this site.  The reason for this is as simple as it is profound:
 
-==Rapidity==  is to ==Special Relativity== as ==Radians== is to ==Trigonometry== 
+==[[rapidity]]==  is to ==Special Relativity== as ==Radians== is to ==Trigonometry== 
 
 See [[Hyperbolic Trig Identites]]
 

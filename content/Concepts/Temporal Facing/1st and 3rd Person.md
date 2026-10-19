@@ -2,13 +2,13 @@ There are two main ways of thinking of [[Hyperbolic Trig Identites|Rotation]] an
 
 In video games an "avatar" is frequently introduced, using definition 2 of the following choices:
 
-**Avatar**
+**Avatar**: Dictionary definition:
  1. a manifestation of a deity or released soul in bodily form on earth; an incarnate divine teacher.
  2. an icon or figure representing a particular person in a video game, internet forum, etc.:
 
 Special Relativity needs to expand this definition, or find another word to represent the figure that actually *is* a particular person in the real universe.
 
-3. A person or drone occupying a [[Point-of-View]], at an event he/she/it defines as [[here and now]]. In the real universe, there is some sense by which we are each avatars carrying our own consciousness.
+3. An ==avatar== is a person or drone occupying a [[Point-of-View]], at an event he/she/it defines as [[here and now]]. In the real universe, there is some sense by which we are each avatars carrying our own consciousness.
 
   We can use our muscles to influence what our avatar does:  I can, for instance, induce my avatar to rotate or accelerate by using my muscles.  When I turn right, the universe around me appears to turn left.  Hence a rotation transformation might have two different domains, depending on the context.
 
