@@ -14,11 +14,11 @@ The result:
 $$\frac{2}{3}\left(a_f^{3/2}-a_1^{3/2}\right)=\sqrt C_1(t_f - t_1)$$
 
 $$\frac 2 3 a_f^{3/2}=\sqrt C_1 t_f +\boxed{\sqrt C_1 t_1+\frac 2 3 a_1^{3/2}}$$
-Setting the term in the box t $C_2$, we obtain the final scale $a_f$ as a function of the final time $t_f$
+Setting the term in the box to $C_2$, we obtain the final scale $a_f$ as a function of the final time $t_f$
 
 $$a_f=\frac 3 2\left(\sqrt C_1 t_f +C_2\right)^{2/3}$$
 
-Suggested diagram:  Let p=[-n...n] be a list of particles affected by the scale.  Set $a_1=1, t_1=1, G=1$  
+Suggested diagram:  Let $p=[-n...n]$ be a list of particles affected by the scale.  Set $a_1=1, t_1=1, G=1$  
 It should be noted this makes $M_\text{encl}$ is a function of $p$.  
 It also makes $r_{p,t_1}$ a function of $p$.  
  - **Question** Make a fully convincing case that $C_1$ either has no dependence on $p$ or that any such dependence will not conflict with the [[uniform density assumption (Newtonian Sphere)]]

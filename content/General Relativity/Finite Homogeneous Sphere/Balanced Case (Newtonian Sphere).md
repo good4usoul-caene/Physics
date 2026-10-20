@@ -35,9 +35,8 @@ $$\left(\frac{\dot a}{a}\right)^2=\overset{C_2}{
 \frac{1}{a^3}$$
 This shows the proportionality with $1/a^3$ since all the other terms are constant.  But if we want to express it in terms of $$\rho(t)=\frac{M_\text{enc}}{V_\text{enc}}=\frac{3M_\text{enc}}{4\pi (a r_{p,t_1})}
 \\\frac{4\pi\rho(t)}{3}=\frac{M_\text{enc}}{(ar_{p,t_1})^3}$$ The equation of interest replaces the boxed portions 
-$$\left(\frac{\dot a}{a}\right)^2=\frac{2G\boxed{M_\text{enc}}}{\boxed{( r_{p,t_1})^3}}\frac{1}{\boxed{a^3}}
-\\=2G\frac{4\pi \rho(t)}{3}
-\\\left(\frac{\dot a}{a}\right)^2=\frac{8\pi G \rho}{3}
+$$\left(\frac{\dot a}{a}\right)^2=\frac{2G\boxed{M_\text{enc}}}{\boxed{( r_{p,t_1})^3}}\frac{1}{\boxed{a^3}}$$
+$$=2G\frac{4\pi \rho(t)}{3}$$$$\left(\frac{\dot a}{a}\right)^2=\frac{8\pi G \rho}{3}
 $$
 [[Solving The Balanced Case (Newtonian Sphere)]]
 

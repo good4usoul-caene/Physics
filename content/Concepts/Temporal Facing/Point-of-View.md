@@ -7,7 +7,7 @@ In order to obtain the coordinates of events relevant to the eye or camera, one 
  - **Stationary**' $v'=0$ The velocity of the camera from the camera's point-of-view is zero.  Even if the camera may be under acceleration, it's current velocity is zero.  
 
 ### Exceptions: 
-One can describe moving points in space (see [[ghost clock]]) which are traveling faster than the speed of light, and in such a case, they do not describe any ==point-of-view==.  
+One can describe moving points in space (see [[Ghost Clock]]) which are traveling faster than the speed of light, and in such a case, they do not describe any ==point-of-view==.  
 ### The Logic
 
  - There are some who argue that a point-of-view under acceleration ought to observe something different than one who occupies the same position at the same time as an inertial observer with the same velocity.  As for ==what difference it makes== though, they tend to fall silent.  

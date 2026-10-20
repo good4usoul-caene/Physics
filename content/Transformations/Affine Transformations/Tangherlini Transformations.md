@@ -1,3 +1,4 @@
+
 | Demo                                                                | Info                                                                                                                        |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | [Tangherlini Attempt](https://www.desmos.com/calculator/wraz9gwgmq) | This demonstration offers a slider showing options for four different "Transformations"  of the circular reflecting mirror. |
@@ -5,8 +6,10 @@
 The Tangherlini Transformations apply a Galilean Transformation, followed by a length "un-contraction" ($\gamma$) and a time "un-dilation" ($\frac{1}{\gamma}$).  In essence we imagine that we in the "preferred" frame of reference see everything in it's natural state.  Normal lengths and normal times.   Then we imagine the avatars of non-preferred frames having slower clocks and shorter distances.  In order for this to be the case, though, without invoking the relativity of simultaneity, such avatars would have to see the "preferred frame" clocks running fast, and the "preferred frame" rulers being stretched.
 
 A clear mathematical comparison of Galilean, Tangherlini, and Lorentz Transformations can be obtained with the following matrix compositions.
+![[Pasted image 20261020165308.png]]
 
-Dimensionless matrix version
+<!--
+- Dimensionless matrix version
 $$\begin{pmatrix}ct'\\x'\\y'\end{pmatrix}=\overset{\text{Lorentz}}{\boxed{\begin{pmatrix}1&-\beta&0\\0&1&0\\0&0&1\\\end{pmatrix}
 \overset{\text{Tangherlini}}{\boxed{\begin{pmatrix}\gamma^{-1}&0&0\\0&\gamma&0\\0&0&1\end{pmatrix}
 \overset{\text{Galilean}}{\boxed{\begin{pmatrix}1&0&0\\-\beta&1&0\\0&0&1\end{pmatrix}}}}}}}\begin{pmatrix}ct\\x\\y\end{pmatrix}$$
@@ -15,14 +18,12 @@ Dimensioned matrix version:
 $$\begin{pmatrix}t'\\x'\\y'\end{pmatrix}=\overset{\text{Lorentz}}{\boxed{\begin{pmatrix}1&-\frac{\beta}{c}&0\\0&1&0\\0&0&1\\\end{pmatrix}
 \overset{\text{Tangherlini}}{\boxed{\begin{pmatrix}\gamma^{-1}&0&0\\0&\gamma&0\\0&0&1\end{pmatrix}
 \overset{\text{Galilean}}{\boxed{\begin{pmatrix}1&0&0\\-{\beta}{c}&1&0\\0&0&1\end{pmatrix}}}}}}}\begin{pmatrix}t\\x\\y\end{pmatrix}$$
-
 Or, if expressions with $v$ are preferred, 
 $$\begin{pmatrix}t'\\x'\\y'\end{pmatrix}=\overset{\text{Lorentz}}{\boxed{\begin{pmatrix}1&-\frac{v}{c^2}&0\\0&1&0\\0&0&1\\\end{pmatrix}
 \overset{\text{Tangherlini}}{\boxed{\begin{pmatrix}\gamma^{-1}&0&0\\0&\gamma&0\\0&0&1\end{pmatrix}
 \overset{\text{Galilean}}{\boxed{\begin{pmatrix}1&0&0\\-v&1&0\\0&0&1\end{pmatrix}}}}}}}\begin{pmatrix}t\\x\\y\end{pmatrix}$$
-
-$$t'= \frac{t}{\gamma}\\x'=\gamma( x - vt )$$
-
+$$t'= \frac{t}{\gamma}$$ $$x'=\gamma( x - vt )$$
+-->
 Let's see what this transformation does to $$(t_r,x_r)=(t_r,ct_r)$$ and $$(t_l,x_l)=(t_l,-ct_l)$$ 
 $$\begin{pmatrix}\begin{pmatrix}t_l'\\x_l'\end{pmatrix}&\begin{pmatrix}t_r'\\x_l'\end{pmatrix}\end{pmatrix}=\begin{pmatrix}\frac{1}{\gamma}&0\\-\gamma v&\gamma\end{pmatrix}\begin{pmatrix}\begin{pmatrix}t_l\\-ct_l\end{pmatrix}&\begin{pmatrix}t_r\\ct_r\end{pmatrix}\end{pmatrix}$$
 $$=\begin{pmatrix}\begin{pmatrix}\frac{t_l}{\gamma}\\\gamma(-c-v)t_l\end{pmatrix}&\begin{pmatrix}\frac{t_r}{\gamma}\\\gamma(c-v)t_r\end{pmatrix}\end{pmatrix}$$
