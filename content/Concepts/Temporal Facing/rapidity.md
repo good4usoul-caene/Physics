@@ -18,11 +18,7 @@ And defining $$\boxed{\Delta x=x_2-x_1}\text{ and }\boxed{\Delta t=t_2-t_1}$$
 This interval exists between every pair of points, and do not have the pre-requisite that anyone associates the event-pair with a velocity.
 
 
-$$\operatorname{rap}(\Delta x,\Delta t)=\left\lbrace
-\begin{matrix}\eta_\tau=\operatorname{arctanh}\left(\frac{\Delta x}{c\Delta t}\right),&|\frac{\Delta x}{\Delta t}|<c
-\\\eta_\chi=\operatorname{arctanh}\left(\frac{c\Delta t}{\Delta x}\right),&|\frac{\Delta x}{\Delta t}|>c\\\eta_c=\pm\infty,&\frac{\Delta x}{\Delta t}=\pm c\end{matrix}
-\right.
-$$
+$$\operatorname{rap}(\Delta x,\Delta t)=\left\lbrace\begin{matrix}\eta_\tau=\operatorname{arctanh}\left(\frac{\Delta x}{c\Delta t}\right),&|\frac{\Delta x}{\Delta t}|<c\\\eta_\chi=\operatorname{arctanh}\left(\frac{c\Delta t}{\Delta x}\right),&|\frac{\Delta x}{\Delta t}|>c\\\eta_c=\pm\infty,&\frac{\Delta x}{\Delta t}=\pm c\end{matrix}\right.$$
 The extra notation suggests the following terms
 
  - **Chrono-Rapidity** Rapidity, $\eta_\tau$ associated with a time-like interval.

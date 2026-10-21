@@ -2,12 +2,12 @@
 [(PDF) Kinetic Dominated Homogenous Distribution.pdf](https://www.researchgate.net/publication/414054994_Kinetic_Dominated_Homogenous_Distributionpdf) 
 
 In this paper, I defined: 
-$$\alpha\equiv\frac
-{\text{Kinetic energy per particle}}
-{\text{Gravitational potential per particle}}$$I used Newtonian expressions for Gravitational Potential Energy and Kinetic Energy
 
-$$E/m = \text{Kinetic Energy Per Particle}-\text{Binding Energy Per Particle}
-\\E/m = \frac{1}{2}v^2-\frac{GM_\text{enclosed}}{r}$$
+$$\alpha\equiv\frac{\text{Kinetic energy per particle}}{\text{Gravitational potential per particle}}$$
+
+I used Newtonian expressions for Gravitational Potential Energy and Kinetic Energy
+
+$$E/m = \text{Kinetic Energy Per Particle}-\text{Binding Energy Per Particle}\\E/m = \frac{1}{2}v^2-\frac{GM_\text{enclosed}}{r}$$
 
 ###  Orbiting Case
 
@@ -21,12 +21,15 @@ See [[Balanced Case (Newtonian Sphere)]] for the situation where the Kinetic and
 
 And the [[KE Dominated Case (Newtonian)]] for the situation where the Kinetic Energy fully dominates.  
 
-
-
 $$\frac{1}{2}\dot r^2 - \frac{G\rho(t)V_\text{enc}(t)}{r}$$
-$$\rho(t)=\frac{\rho_1}{V_1}\left(\frac{t_1}{t}\right)^3=\frac{3\rho_1}{4r_1^3}\left(\frac{t_1}{t}\right)^3$$$$V_\text{enc}=\frac{4}{3}\pi r^3=\frac{4(r_1 t)^3}{3}$$$$M_\text{enc}=\rho(t)V_\text{enc}(t)=\frac{3\rho_1}{4r_1^3}\left(\frac{t_1}{t}\right)^3 \frac{4(r_1 t)^3}{3}=\rho_1 t_1^3$$
+
+$$\rho(t)=\frac{\rho_1}{V_1}\left(\frac{t_1}{t}\right)^3=\frac{3\rho_1}{4r_1^3}\left(\frac{t_1}{t}\right)^3$$
+
+$$V_\text{enc}=\frac{4}{3}\pi r^3=\frac{4(r_1 t)^3}{3}$$
+
+$$M_\text{enc}=\rho(t)V_\text{enc}(t)=\frac{3\rho_1}{4r_1^3}\left(\frac{t_1}{t}\right)^3 \frac{4(r_1 t)^3}{3}=\rho_1 t_1^3$$
+
 This lets us define an initial nonzero time, $t_1$ and state that the density of the expanding ball at that time is $t_1$  But no, I think I have erred here.  I've set our radius to $r_1*t$ which implies the ball is expanding at a constant rate.  
 
 ### Pre-Prints
  - [(PDF) The Kinetic Energy Dominated Universe](https://www.researchgate.net/publication/340658352_The_Kinetic_Energy_Dominated_Universe)
- - 
