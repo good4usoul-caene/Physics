@@ -14,13 +14,12 @@ $$\begin{pmatrix}t'\\x'\end{pmatrix}=\begin{pmatrix}\gamma&-\frac{c}{\sigma}\\-c
 
 For the first case, the metric tensor is simple:
 
-$$\overset{(ct',x')\rightarrow}{\boxed{\begin{pmatrix}ct&x\end{pmatrix}\begin{pmatrix}\gamma&-\sigma\\-\sigma&\gamma\end{pmatrix}}}
-\begin{pmatrix}-1&0\\0&1\end{pmatrix}
-\overset{(ct',x')\downarrow}{\boxed{\begin{pmatrix}\gamma&-\sigma\\-\sigma&\gamma\end{pmatrix}\begin{pmatrix}ct\\x\end{pmatrix}}}$$
-$$=\overset{(ct',x')\rightarrow}{\boxed{\begin{pmatrix}ct&x\end{pmatrix}\begin{pmatrix}\gamma&-\sigma\\-\sigma&\gamma\end{pmatrix}}}
-\begin{pmatrix}-\gamma&\sigma\\-\sigma&\gamma\end{pmatrix}\begin{pmatrix}ct\\x\end{pmatrix}$$
-$$=\begin{pmatrix}ct&x\end{pmatrix}\begin{pmatrix}-\gamma^2+\sigma^2&(1-1)\sigma\gamma
-\\(1-1)\sigma\gamma&-\sigma^2+\gamma^2\end{pmatrix}\begin{pmatrix}ct\\x\end{pmatrix}$$
+$$\overset{(ct',x')\rightarrow}{{\boxed{\begin{pmatrix}ct&x\end{pmatrix}\begin{pmatrix}\gamma&-\sigma\\-\sigma&\gamma\end{pmatrix}}}}\begin{pmatrix}-1&0\\0&1\end{pmatrix}\overset{(ct',x')\downarrow}{{\boxed{\begin{pmatrix}\gamma&-\sigma\\-\sigma&\gamma\end{pmatrix}\begin{pmatrix}ct\\x\end{pmatrix}}}}$$
+
+$$=\overset{(ct',x')\rightarrow}{{\boxed{\begin{pmatrix}ct&x\end{pmatrix}\begin{pmatrix}\gamma&-\sigma\\-\sigma&\gamma\end{pmatrix}}}}\begin{pmatrix}-\gamma&\sigma\\-\sigma&\gamma\end{pmatrix}\begin{pmatrix}ct\\x\end{pmatrix}$$
+
+$$=\begin{pmatrix}ct&x\end{pmatrix}\begin{pmatrix}-\gamma^2+\sigma^2&(1-1)\sigma\gamma\\(1-1)\sigma\gamma&-\sigma^2+\gamma^2\end{pmatrix}\begin{pmatrix}ct\\x\end{pmatrix}$$
+
 $$=\begin{pmatrix}-1&0\\0&1\end{pmatrix}$$
 
 ### Why that's not what we wanted:
