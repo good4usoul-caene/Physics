@@ -7,3 +7,7 @@ A good defense means that
  - You understand the idea well enough to defend it.
  - You are willing to explore various questions applicable to the idea.
 
+# Examples:
+==🟠I am not defending any position, I am relating the scientific one.==
+
+A person who says such a thing and also 

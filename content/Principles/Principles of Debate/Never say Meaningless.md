@@ -13,4 +13,4 @@ However, none of these ideas need necessarily be called "meaningless".  It may b
 
 Popular literature on relativity may have mention of meaninglessness
   - **Personal Anecdote:** I have heard people say that gravity renders distant simultaneity "meaningless".  However, to me, that's rather like saying "gravity has rendered distant *in front of you*" meaningless, or distant *to your right*, meaningless.  The simultaneity plane might be "irrelevant" to me, (See: [[Image Location vs Simultaneous Location]]) but it does not become meaningless or undefined, simply because someone has defined a [[Jacobians & Coordinate Transformations|Jacobian]].
-- 
+- Also see [[Objective and Subjective]] for an example of someone declaring distant simultaneity to be meaningless.  Declarations that one's own conceptualizations are meaningless are, of course, inconsistent with the [[Pin Yourself Down]] principle.

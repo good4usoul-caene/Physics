@@ -1,11 +1,12 @@
 
-# LHS
 
-^a2cbeb
+- **ETETE:** Einstein Train Embankment Thought Experiment
+- **IRF:** Inertial Reference Frame
+- **LHS:** Left Hand Side  $(\text{LHS}=\text{RHS})$
+- **MCIRF:** Momentarily Comoving Inertial Reference Frame
+- **RHS:** Right Hand Side $(\text{LHS}=\text{RHS})$
+- **SOL:**  Speed of Light
 
-# RHS
 
-^2c3497
 
-LHS and RHS are shorthand for Left-hand-side and Right-hand side.  Used in reference to an equation of the form:
-$$\text{LHS}=\text{RHS}$$
+ 

@@ -56,10 +56,10 @@ The equation is now in a state where we can compare it to the Newtonian approxim
 $$KE=\frac{p^2}{2m}$$
 Here is a table that compares the exact relations to the Newtonian approximation:
 
-|                            | [[Abbreviations#^a2cbeb\|LHS]] (Energy) | [[Abbreviations#^2c3497\|RHS]]              | Momentum                      |
-| -------------------------- | --------------------------------------- | ------------------------------------------- | ----------------------------- |
-| Exact                      | $$mc^2(\gamma-1)$$                      | $$\frac{(m\gamma \beta c)^2}{m(\gamma+1})$$ | $$m\gamma \beta c=\gamma mv$$ |
-| Newtonian<br>Approximation | $$\frac{1}{2}mv^2$$                     | $$\frac{p^2}{2m}$$                          | $$mv=m\beta c$$               |
+|                            | [[Abbreviations\|LHS]] (Energy) | [[Abbreviations\|RHS]]                      | Momentum                      |
+| -------------------------- | ------------------------------- | ------------------------------------------- | ----------------------------- |
+| Exact                      | $$mc^2(\gamma-1)$$              | $$\frac{(m\gamma \beta c)^2}{m(\gamma+1})$$ | $$m\gamma \beta c=\gamma mv$$ |
+| Newtonian<br>Approximation | $$\frac{1}{2}mv^2$$             | $$\frac{p^2}{2m}$$                          | $$mv=m\beta c$$               |
 
 Related links:
  - [[Taylor expansion of gamma]]
