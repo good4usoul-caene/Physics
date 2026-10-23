@@ -1,21 +1,32 @@
 
-On this page, we will essentially obtain the classical mechanics result of $$KE=\frac{p^2}{2m}$$ by using algebraic manipulation of the [[Minkowski Metric]]
+On this page, we will essentially obtain the classical mechanics result of 
+
+$$
+KE=\frac{p^2}{2m}
+$$
+
+by using algebraic manipulation of the [[Minkowski Metric]]
 
 
 ###  Specific Goals
+
 See the table below to see the **exact** and **approximate** forms of momentum and kinetic energy.  The relation we are looking for will actually obtain
 
-$$KE=\frac{p^2}{\gamma+1}$$
-$$\lim_{\gamma\rightarrow 1}KE=\frac{p^2}{2m}$$
-where $KE$ and $p$ are the **exact** relativistic formulas for Kinetic Enery and momentum.
-
-  
+$$
+KE=\frac{p^2}{\gamma+1}
+$$
+$$
+\lim_{\gamma\rightarrow 1}KE=\frac{p^2}{2m}
+$$
+where $KE$ and $p$ are the exact relativistic formulas for Kinetic Energy and momentum.
 
 ### Minkowski Metric
 
 The "timelike" Minkowski metric in one spatial dimension is of the form:
 	
-$$(cd\tau)^2=(cdt)^2-dx^2$$
+$$
+(cd\tau)^2=(cdt)^2-dx^2
+$$
 
 ### Multipy Both Sides
 
@@ -26,7 +37,9 @@ $$
 
 ### Subtract from Both Sides
 
-$$mc^2\left(\left(\frac{dt}{d\tau}\right)^2-1\right)=m\left(\frac{dx}{d\tau}\right)^2$$
+$$
+mc^2\left(\left(\frac{dt}{d\tau}\right)^2-1\right)=m\left(\frac{dx}{d\tau}\right)^2
+$$
 
 ### Insert Identities
 
@@ -36,24 +49,30 @@ Use Identities from [[Hyperbolic Trig Identites]]
 | --------------------------- | -------------------------------------------------------------------- |
 | $$\frac{dt}{d\tau}=\gamma$$ | $$\frac{dx}{d\tau} = c \frac{dx}{cdt}\frac{dt}{d\tau}=c\beta\gamma$$ |
 
-
-$$mc^2(\gamma^2-1)=mc^2\sigma^2$$
+$$
+mc^2(\gamma^2-1)=mc^2\sigma^2
+$$
 
 ### Difference of Squares Factoring
 
->$$mc^2(\gamma-1)(\gamma+1)d\tau=mc^2\sigma^2d\tau$$
+$$
+mc^2(\gamma-1)(\gamma+1)d\tau=mc^2\sigma^2d\tau
+$$
 
 ### Divide
 
 Divide by $\gamma +1$, Obtaining:
-$$mc^2(\gamma-1)=\frac{mc^2\sigma^2d\tau}{\gamma+1}
+$$
+mc^2(\gamma-1)=\frac{mc^2\sigma^2d\tau}{\gamma+1}
 \\=\frac{(m^2c^2\beta \gamma)^2}{m(\gamma+1)}
 $$
 
 ### Compare
 
 The equation is now in a state where we can compare it to the Newtonian approximation:
-$$KE=\frac{p^2}{2m}$$
+$$
+KE=\frac{p^2}{2m}
+$$
 Here is a table that compares the exact relations to the Newtonian approximation:
 
 |                            | [[Abbreviations\|LHS]] (Energy) | [[Abbreviations\|RHS]]                      | Momentum                      |

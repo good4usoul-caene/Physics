@@ -34,24 +34,34 @@ a:hover,
   min-width: max-content;
 }
 
-/* Center all KaTeX equations */
-.katex {
-  display: block !important;
-  text-align: center !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-
-/* Add vertical spacing between equations */
-.katex + .katex {
+/* Center all KaTeX equations - Jonathan Edited */
+.katex-display {
+  display: block;
+  text-align: center;
   margin-top: 1.2rem;   /* adjust to taste */
+  margin-bottom: 1.2rem;   /* adjust to taste */
 }
 
 /* Optional: add spacing above/below any display math */
-p > .katex {
+/* p > .katex-display {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+
+  } */
+
+/* Jonathan Edited: Center single KaTeX equations within paragraphs 
+p:has(> span.katex:only-child) {
+  text-align: center;
+} */
+
+
+/* Jonathan - Added - class: .display-equation */
+.display-equation {
+  text-align: center;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
+
 
 
 .table-container th,

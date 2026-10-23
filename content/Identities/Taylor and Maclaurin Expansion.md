@@ -45,7 +45,9 @@ $$
 To see why we are generally mostly interested in lower order terms, see the [[Zoom-In Principle]]
 
   The result of the expansion will look like this:
+
  $$f(x)=c_0 + c_1 (x-a) + c_2 (x-a)^2 + c_3 (x-a)^3 + c_4 (x-a)^4+...$$
+
 
 >[!info]-  Why does this imply that polynomials can capture all smooth behaviors?
 >When a function is smooth at a point a, it carries an enormous amount of information in its derivatives:
@@ -117,7 +119,7 @@ This is the conceptual reason Taylor and Maclaurin expansions work: **local smoo
 ---
 
 
-What makes us expect that a polynomial must capture all such behaviors?
+What makes us expect that a polynomial must capture all such behaviors? 
 
 Once we have accepted the premise, we are also accepting the premise that there is a unique set of coefficients of each polynomial term that captures the full behavior.  
 
@@ -127,15 +129,28 @@ This unique set of coefficients must be the same whether $(x-a)$ is large or sma
 
 ### Exponential
 
+x 
 The exponential function is the nontrivial solution to $f'(x)=f(x)$.  The trivial solution is $f(x)=0$
 
 $$
 e^x = \sum_{n=0}^{\infty} \frac{x^n}{n!}
 $$
 The first few terms are
-$$e^x=\frac{x^0}{0!}+\frac{x}{1}+\frac{x^2}{2}+\frac{x^3}{6}+\frac{x^4}{24}+\frac{x^5}{1\cdot2\cdot3\cdot4\cdot5}+...$$
+
+
+$$
+e^x =\frac{x^0}{0!}+\frac{x}{1}+\frac{x^2}{2}+\frac{x^3}{6}+\frac{x^4}{24}+\frac{x^5} {1\cdot2\cdot3\cdot4\cdot5}+...
+$$
+
+
 Euler's constant can be found by setting $x=1$ 
-$$e=1+1+1/2+1/6+1/24+1/120+...$$
+
+
+$$
+e=1+1+1/2+1/6+1/24+1/120+...
+$$
+
+
 
 [Euler Constant Approximations | Desmos](https://www.desmos.com/calculator/pahcjjj62h) 
 ### Sine
@@ -144,15 +159,37 @@ $$
 \frac{(-1)^n}{(2n+1)!} x^{2n+1}
 $$
 Summation notation, by default, increments the index by one for each term in the sum.  However, this may require us to find non-intuitive functions of $n$ that provide the desired behavior.  We can break it down by separating the three functions of n here:  
-$$n:[0,1,2,3]\to[0,1,2,3...]$$
-$$(-1)^n:[0,1,2,3,...]\to[1,-1,1,-1,...]$$
-$$2n+1:[0,1,2,3]\to[1, 3, 5, 7...]$$
-A more convenient way to write this would be
-$$\sin\theta=\sum_{n\in\{1,3,5,...\}}\frac{(-1)^{(n-1)/2}}{n!}\theta^n
-\\=+\frac{\theta^1}{1!}-\frac{\theta^3}{3!}+\frac{\theta^5}{5!}-\frac{\theta^7}{7!}+...
+
 $$
+n:[0,1,2,3]\to[0,1,2,3...]
+$$
+
+$$
+(-1)^n:[0,1,2,3,...]\to[1,-1,1,-1,...]
+$$
+
+
+$$
+2n+1:[0,1,2,3]\to[1, 3, 5, 7...]
+$$
+
+A more convenient way to write this would be
+
+$$
+\sin\theta=\sum_{n\in\{1,3,5,...\}}\frac{(-1)^{(n-1)/2}}{n!}\theta^n
+$$
+
+
+$$
+=+\frac{\theta^1}{1!}-\frac{\theta^3}{3!}+\frac{\theta^5}{5!}-\frac{\theta^7}{7!}+...
+$$
+
+
 Or we could invoke a notation that simply shows the patterns explicitly, term-by-term.
-$$\sin\theta=\sum\frac{[1,-1,1,-1,...]}{[1!,3!,5!,7!]}\theta^{[1,3,5,7]}$$
+
+$$
+\sin\theta=\sum\frac{[1,-1,1,-1,...]}{[1!,3!,5!,7!]}\theta^{[1,3,5,7]}
+$$
 
 ### Cosine
 $$
@@ -160,17 +197,40 @@ $$
 \frac{(-1)^n}{(2n)!} x^{2n}
 $$
 Mappings:
-$$(-1)^{[0,1,2,3]}=[1,-1,1,-1]$$
-$$(2[0,1,2,3,...])!=[0!,2!,4!,6!...]$$
-$$x^{2[0,1,2,3...]}=x^{[0,2,4,6...]}$$
+
+$$
+(-1)^{[0,1,2,3]}=[1,-1,1,-1]
+$$
+
+$$
+(2[0,1,2,3,...])!=[0!,2!,4!,6!...]
+$$
+
+$$
+x^{2[0,1,2,3...]}=x^{[0,2,4,6...]}
+$$
+
 Term by term:
-$$\cos\theta=\frac{[+1,-1,1,-1,...]}{[1,2,24,6!,...]}[1,x^2,x^4,x^6]$$
-$$=1-x^2/2+x^4/24-x^6/6!$$
+
+$$
+\cos\theta=\frac{[+1,-1,1,-1,...]}{[1,2,24,6!,...]}[1,x^2,x^4,x^6]
+$$
+
+
+$$
+=1-x^2/2+x^4/24-x^6/6!
+$$
+
 ### Geometric Series (for |x| < 1)
+
 $$
 \frac{1}{1 - x} = \sum_{n=0}^{\infty} x^n
 $$
-$$\frac{1}{1-x}=x^{[0,1,2,3,4...]}=1+x+x^2+x^3+...$$
+
+$$
+\frac{1}{1-x}=x^{[0,1,2,3,4...]}=1+x+x^2+x^3+...
+$$
+
 
 ---
 
@@ -178,12 +238,13 @@ $$\frac{1}{1-x}=x^{[0,1,2,3,4...]}=1+x+x^2+x^3+...$$
 
 The error after truncating the Taylor series at degree \(N\) is given by the Lagrange remainder:
 
+
 $$
-R_N(x) =
-\frac{f^{(N+1)}(\xi)}{(N+1)!} (x - a)^{N+1}
+R_N(x) =\frac{f^{(N+1)}(\xi)}{(N+1)!} (x - a)^{N+1}
 $$
 
-for some \(\xi\) between \(a\) and \(x\).
+
+for some $\xi$ between $a$ and $x$. 
 
 ---
 
@@ -193,5 +254,5 @@ for some \(\xi\) between \(a\) and \(x\).
 - Numerical methods  
 - Solving differential equations  
 - Physics and engineering (perturbation theory, small‑parameter expansions)  
-- Relativity (e.g., expanding \(\gamma\), small‑velocity approximations)
+- Relativity (e.g., expanding $(\gamma)$, small‑velocity approximations)
 

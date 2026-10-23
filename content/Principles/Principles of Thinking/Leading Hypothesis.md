@@ -1,0 +1,1 @@
+If there are several incompatible ideas that might be true, but you are inclined to believe one of them more than the others, we should not be hesitant to [[Acknowledge the Hypothesis|acknowledge all of the hypotheses]].  But we should not mistake acknowledging a hypotheses for believing that it represents reality.
