@@ -1,6 +1,4 @@
 
-
-
 ### Single Radar Method
 The animation [Einstein Synchronization Convention | Desmos](https://www.desmos.com/calculator/6ysgrbngci) shows the original signal going out as purple round dots.  The reflection signal comes back in the form of faded blue rectangles, and the central station in the demo goes ahead and multiplies it's time by 1.5 so that each clock sets its time to the value sent, rather than having to do an extra calculation.
 
