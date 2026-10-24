@@ -9,7 +9,7 @@
     <lastmod>2026-10-23T19:59:35.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/concepts/einstein-synchronization-convention</loc>
-    <lastmod>2026-10-23T19:59:35.000Z</lastmod>
+    <lastmod>2026-10-24T19:19:44.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/general-relativity/ghost-clock</loc>
     <lastmod>2026-10-20T22:41:49.000Z</lastmod>
@@ -19,6 +19,9 @@
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/general-relativity/schwarzschild-attempt</loc>
     <lastmod>2026-10-23T19:59:35.000Z</lastmod>
+  </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/identities/inverse-of-a-2x2-matrix</loc>
+    <lastmod>2026-10-24T18:59:16.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/identities/lagrangian,-action,-and-euler-lagrange-equations</loc>
     <lastmod>2026-10-16T12:07:48.000Z</lastmod>
@@ -65,6 +68,12 @@
     <loc>https://good4usoul-caene.github.io/Physics/notational-choices/einstein-notation</loc>
     <lastmod>2026-10-16T12:07:48.000Z</lastmod>
   </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/concepts/bold-statements/numbers-are-adjectives</loc>
+    <lastmod>2026-10-16T12:07:48.000Z</lastmod>
+  </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/concepts/bold-statements/unitlessness</loc>
+    <lastmod>2026-10-16T12:07:48.000Z</lastmod>
+  </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/concepts/distinctions/image-location-vs-simultaneous-location</loc>
     <lastmod>2026-10-16T12:07:48.000Z</lastmod>
   </url><url>
@@ -82,15 +91,6 @@
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/concepts/distinctions/objective-and-subjective</loc>
     <lastmod>2026-10-22T21:15:05.000Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/concepts/bold-statements/numbers-are-adjectives</loc>
-    <lastmod>2026-10-16T12:07:48.000Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/concepts/bold-statements/unitlessness</loc>
-    <lastmod>2026-10-16T12:07:48.000Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/debates/dingle-objection/two-clocks-vs.-one-clock</loc>
-    <lastmod>2026-10-18T00:12:13.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/concepts/temporal-facing/1st-and-3rd-person</loc>
     <lastmod>2026-10-19T02:52:29.000Z</lastmod>
@@ -131,17 +131,20 @@
     <loc>https://good4usoul-caene.github.io/Physics/concepts/thought-experiments/twin-paradox</loc>
     <lastmod>2026-10-16T12:07:48.000Z</lastmod>
   </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/debates/dingle-objection/two-clocks-vs.-one-clock</loc>
+    <lastmod>2026-10-18T00:12:13.000Z</lastmod>
+  </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/debates/distant-simultaneity/distant-objects-swing-forward-and-backward-in-time</loc>
     <lastmod>2026-10-16T12:07:48.000Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/debates/sagnac-effect/e.j.-post's-sagnac-transformations</loc>
-    <lastmod>2026-10-24T18:54:43.069Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/debates/sagnac-effect/list-of-sagnac-related-demonstrations</loc>
     <lastmod>2026-10-22T21:15:05.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/debates/sagnac-effect/</loc>
     <lastmod>2026-10-16T12:07:48.000Z</lastmod>
+  </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/debates/sagnac-effect/sagnac-transformations-of-e.j.post</loc>
+    <lastmod>2026-10-24T19:19:44.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/general-relativity/disavowals/infinite-homogeneous-distribution</loc>
     <lastmod>2026-10-16T12:07:48.000Z</lastmod>
@@ -167,6 +170,18 @@
     <loc>https://good4usoul-caene.github.io/Physics/general-relativity/lists/coordinate-systems--and--jacobians</loc>
     <lastmod>2026-10-19T02:52:29.000Z</lastmod>
   </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/general-relativity/premises/uniform-density-assumption-(newtonian-sphere)</loc>
+    <lastmod>2026-10-16T02:18:28.000Z</lastmod>
+  </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/general-relativity/starts/christoffel-symbols</loc>
+    <lastmod>2026-10-16T02:53:22.000Z</lastmod>
+  </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/general-relativity/starts/general-relativity-foundations</loc>
+    <lastmod>2026-10-16T02:18:28.000Z</lastmod>
+  </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/general-relativity/starts/schwarzschild</loc>
+    <lastmod>2026-10-20T22:41:49.000Z</lastmod>
+  </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/principles/principles-of-debate/ad-hominen</loc>
     <lastmod>2026-10-23T19:59:35.000Z</lastmod>
   </url><url>
@@ -184,18 +199,6 @@
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/principles/principles-of-debate/pin-yourself-down</loc>
     <lastmod>2026-10-23T19:59:35.000Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/general-relativity/starts/christoffel-symbols</loc>
-    <lastmod>2026-10-16T02:53:22.000Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/general-relativity/starts/general-relativity-foundations</loc>
-    <lastmod>2026-10-16T02:18:28.000Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/general-relativity/starts/schwarzschild</loc>
-    <lastmod>2026-10-20T22:41:49.000Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/general-relativity/premises/uniform-density-assumption-(newtonian-sphere)</loc>
-    <lastmod>2026-10-16T02:18:28.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/principles/principles-of-pedagogy/acknowledge-the-hypothesis</loc>
     <lastmod>2026-10-23T19:59:35.000Z</lastmod>
@@ -230,6 +233,9 @@
     <loc>https://good4usoul-caene.github.io/Physics/principles/principles-of-thinking/zoom-out-principle</loc>
     <lastmod>2026-10-23T19:59:35.000Z</lastmod>
   </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/transformations/affine-transformations/a-comparison-of-affine-transformations</loc>
+    <lastmod>2026-10-24T19:19:44.000Z</lastmod>
+  </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/transformations/affine-transformations/einstein's-1920-derivation-of-lt</loc>
     <lastmod>2026-10-20T22:41:49.000Z</lastmod>
   </url><url>
@@ -240,7 +246,10 @@
     <lastmod>2026-10-19T02:52:29.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/transformations/affine-transformations/tangherlini-transformations</loc>
-    <lastmod>2026-10-20T22:41:49.000Z</lastmod>
+    <lastmod>2026-10-24T18:59:16.000Z</lastmod>
+  </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/transformations/affine-transformations/the-two-galilean-premises</loc>
+    <lastmod>2026-10-24T18:59:16.000Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/transformations/descriptive-transformations/polar-to-rectangular-transformation</loc>
     <lastmod>2026-10-16T02:18:28.000Z</lastmod>
@@ -248,93 +257,84 @@
     <loc>https://good4usoul-caene.github.io/Physics/transformations/descriptive-transformations/spherical-to-rectangular-coordinates</loc>
     <lastmod>2026-10-16T02:18:28.000Z</lastmod>
   </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/transformations/affine-transformations/a-comparison-of-affine-transformations</loc>
-    <lastmod>2026-10-24T18:56:11.234Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/identities/inverse-of-a-2x2-matrix</loc>
-    <lastmod>2026-10-24T16:25:21.503Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/transformations/affine-transformations/the-two-galilean-premises</loc>
-    <lastmod>2026-10-24T17:48:17.504Z</lastmod>
-  </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/concepts/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/general-relativity/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/identities/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/metrics/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/notational-choices/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/concepts/distinctions/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/concepts/bold-statements/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/debates/dingle-objection/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/debates/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <loc>https://good4usoul-caene.github.io/Physics/concepts/distinctions/</loc>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/concepts/temporal-facing/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/concepts/thought-experiments/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
+  </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/debates/dingle-objection/</loc>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
+  </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/debates/</loc>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/debates/distant-simultaneity/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/general-relativity/disavowals/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/general-relativity/finite-homogeneous-sphere/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/general-relativity/geometry/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/general-relativity/lists/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/principles/principles-of-debate/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/principles/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
-  </url><url>
-    <loc>https://good4usoul-caene.github.io/Physics/general-relativity/starts/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/general-relativity/premises/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
+  </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/general-relativity/starts/</loc>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
+  </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/principles/principles-of-debate/</loc>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
+  </url><url>
+    <loc>https://good4usoul-caene.github.io/Physics/principles/</loc>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/principles/principles-of-pedagogy/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/principles/principles-of-thinking/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/transformations/affine-transformations/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/transformations/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/transformations/descriptive-transformations/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/tags</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url><url>
     <loc>https://good4usoul-caene.github.io/Physics/tags/</loc>
-    <lastmod>2026-10-24T18:58:21.315Z</lastmod>
+    <lastmod>2026-10-24T20:38:42.577Z</lastmod>
   </url></urlset>
