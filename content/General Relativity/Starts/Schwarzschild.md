@@ -2,7 +2,9 @@ See [[Schwarzschild Attempt]]
 
 The Schwarzschild Solution is generally given as follows.  
 
-$$(cd\tau)^2=\left(1-\frac{2GM}{c^2r}\right)(cdt)^2-\left(1-\frac{2GM}{c^2r}\right)^{-1}dr^2-(rd\phi)^2$$
+$$
+(cd\tau)^2=\left(1-\frac{2GM}{c^2r}\right)(cdt)^2-\left(1-\frac{2GM}{c^2r}\right)^{-1}dr^2-(rd\phi)^2
+$$
  
 However, it tends to be tied to a question that isn't well phrased.  
  

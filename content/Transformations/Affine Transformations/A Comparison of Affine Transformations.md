@@ -3,6 +3,6 @@ A visualization of these transformation is available at [Transformation Comparis
 | Transformation                         | Time Dilation | Length Contraction | Desynchronization |
 | -------------------------------------- | ------------- | ------------------ | ----------------- |
 | [[Galilean Transformation]]            | No            | No                 | No                |
-| [[Sagnac Transformations of E.J.Post]] | Yes           | No                 | No                |
+| [[Sagnac Transformations of E J Post]] | Yes           | No                 | No                |
 | [[Tangherlini Transformations]]        | Yes           | Yes                | No                |
 | [[Lorentz Transformations]]            | Yes           | Yes                | Yes               |

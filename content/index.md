@@ -29,7 +29,7 @@
 - [[Lorentz Transformation]]
 - [[Jacobians & Coordinate Transformations]], [[Jacobian]], [[Einstein Notation]] , [[Differential Path Elements]]
 - [[Polar to Rectangular Transformation]], [[Spherical to Rectangular Coordinates]]
-- [[Einstein's 1920 Derivation of LT]] [[Lorentz Transformations]]
+- [[Einstein 1920 Derivation of LT]] [[Lorentz Transformations]]
 - [[Tangherlini Transformations]]
 
 ### Models
