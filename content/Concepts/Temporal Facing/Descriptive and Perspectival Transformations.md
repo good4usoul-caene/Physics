@@ -1,4 +1,4 @@
-A perspectival transformation is one that imagines "what would the situation look like from that perspective"?  
+A perspectival transformation is one that imagines "what would the situation look like from that perspective"?  See [[Perspective is Real]]
 
 The main perspectival transformations are 
  - Rotation: (imagines the perspective of someone who has turned or turned around)
