@@ -1,4 +1,15 @@
-Rather than jumping into complex mathematical language to describe Parallel Transport, I will point to an example.
+
+Parallel transport is the process of carrying an arrow through space while trying not to turn it, and curvature is what prevents that goal from being globally consistent.
+
+Einstein synchronization around a rotating frame is *said* to fail for essentially the same reason that parallel transport around a curved connection fails to return to its starting state.  
+
+Curvature, holonomy, and the Sagnac effect are often described with the language of failure, inconsistency, or impossibility. But one can equally describe them as ordinary accumulations that occur when a quantity is transported around a loop.
+
+For instance, if you walk around a circle, first measuring a length $2\pi r$ after one lap, then measuring, at the same point, $4\pi r$, then $6\pi r$, do you feel this is a "failure"?  No, of course not.  You would recognize that these values do not describe a property of the point itself. They describe different paths that begin and end at that point.
+
+The apparent contradiction arises only after the path is forgotten. Once the route is discarded, several accumulated values become attached to the same point and appear inconsistent. But the inconsistency is not in the measurement. It is in the description. The quantities being compared are not properties of the point itself; they are properties of the paths that terminated there.
+
+Let's look deeper into the example.
 
 [Sagnac With Linear Sync Convention](https://www.desmos.com/calculator/fz1jylfqwn)
 
@@ -31,4 +42,19 @@ The words "in the inertial frame" ([[Abbreviations|IRF]]) is meant to describe t
 | [[Galilean Transformation]]            | Axle            | Axle        | Axle                   | [[Head Turning Coordinates]] |
 | [[Sagnac Transformations of E J Post]] | Conveyor        | Axle        | Axle                   |                              |
 | [[Tangherlini Transformations]]        | Conveyor        | Conveyor    | Axle                   |                              |
-| [[Lorentz Transformations]]            | Coveyor         | Conveyor    | Conveyor               | [[Spin Local Coordinates]]   |
+| [[Lorentz Transformations]]            | Conveyor        | Conveyor    | Conveyor               | [[Spin Local Coordinates]]   |
+
+Once all of these choices have been made with regards to the clocks and rulers on the conveyor belt, parallel transport is as simple as rolling the rim along the belt without slipping, and transferring clock-times and ruler measures to the rim.  
+
+What will happen?  Well, for one thing, after the wheel rolls for one revolution, there may be one or two disagreements.  One disagreement that will *definitely* be there, is that once the rim observer copies his ruler measurement, there will be a *different* ruler measurement the second time around.  No one balks at this problem, because everyone knows that you repeat the same point in space every time you go around in a circle. 
+
+With regards to synchronization, if Axle synchronization is selected, then nothing strange will happen.  
+
+But if conveyor synchronization is selected, then the conveyor clock will not match up with the already-set rim-clock when the rim clock rolls over the conveyor the second and third time around etc.  
+
+# Conclusion
+
+After one circumference, the ruler carries the label $2\pi r$. After two circumferences, it carries $4\pi r$ After three, $6\pi r$.  Nobody interprets this as a contradiction because everyone recognizes that a circular path revisits the same spatial location repeatedly while accumulating additional distance.
+
+The synchronization gap can be viewed in exactly the same way. A clock transported around the rim accumulates an additional time offset each time the synchronization convention is carried through another complete circuit. The appearance of multiple time labels at a single location is no more surprising than the appearance of multiple distance labels. In both cases the quantity being accumulated is path dependent, and the repeated return to the same point should not by itself be mistaken for a logical inconsistency.
+
