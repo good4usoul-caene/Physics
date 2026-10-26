@@ -44,10 +44,13 @@ $$
 J^T\eta J=\eta 
 $$
 
+(Example [[Spin Local Coordinates]])
+
 where $\eta$ is either the [[Cartesian Metric Tensor]] or [[Minkowski Metric]] Tensor, the transformation itself does not privilege any inertial frame at the metric level.
 
 On the other hand, if
 
 $$
 J^T\eta J\ne η
-$$the transformation is no longer a Lorentz isometry, and some additional structure is being introduced into the coordinate description. Whether that additional structure corresponds to a preferred frame, a synchronization convention, acceleration, rotation, or merely a different coordinate choice requires further investigation.
+$$
+(Example [[Head Turning Coordinates]]) the transformation is no longer a Lorentz isometry, and some additional structure is being introduced into the coordinate description. Whether that additional structure corresponds to a preferred frame, a synchronization convention, acceleration, rotation, or merely a different coordinate choice requires further investigation.
