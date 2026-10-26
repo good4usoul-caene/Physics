@@ -1,3 +1,5 @@
+
+(May be mergged with [[Jacobians & Coordinate Transformations]])
 ### Other Descriptions
 
 See [[Einstein Notation]]
@@ -54,3 +56,6 @@ $$
 J^T\eta J\ne η
 $$
 (Example [[Head Turning Coordinates]]) the transformation is no longer a Lorentz isometry, and some additional structure is being introduced into the coordinate description. Whether that additional structure corresponds to a preferred frame, a synchronization convention, acceleration, rotation, or merely a different coordinate choice requires further investigation.
+
+What happens in these cases is that the transformed coordinates can no longer be interpreted automatically as standard inertial Minkowski coordinates. Additional analysis is required to determine whether the resulting structure should be interpreted as acceleration, rotation, synchronization convention, preferred-frame effects, or a [[Instrumental vs Calibrated Coordinates|calibration]] mismatch.
+
