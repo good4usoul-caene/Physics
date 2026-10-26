@@ -1,4 +1,4 @@
-
+>[!info]- [Is there a solid counter-argument against Dingle's old objection to Relativity Theory? | ResearchGate (3318.1)](https://www.researchgate.net/post/Is_there_a_solid_counter-argument_against_Dingles_old_objection_to_Relativity_Theory/3318)
 
 There are two main concepts about the speed of light that are consistent with the Galilean Transformation. 
 

@@ -1,5 +1,5 @@
 
-It is much harder to impose synchronization of a lot of clocks than it is to acknowledge that certain events are simultaneous.  See [[Imposing vs. Acknowledging Coordinates]].  
+It is much harder to impose synchronization of a lot of clocks than it is to acknowledge that certain events are simultaneous.  See [[Imposing vs Acknowledging Coordinates]].  
 
 This page currently only considers the Einstein Synchronization Procedure (ESP) for the situation where all the clocks and the synchronizing station are stationary.  
 
