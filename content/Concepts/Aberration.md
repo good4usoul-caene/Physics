@@ -38,26 +38,43 @@ For our example: $y=154.3$ light years,
 
 $$
 v_{earth}=\pm 29.78\text{ km/s}
-\\c=300\times 10^3\text{ km/s}=1\text{ ly/y}
-\\\pm v/c=\pm 99.2\times 10^{-6}
-$$.
+$$
+
+$$
+c=300\times 10^3\text{ km/s}=1\text{ ly/y}
+$$
+$$
+\pm v/c=\pm 99.2\times 10^{-6}
+$$
+.
 The location of the image (and where the distant star was when it produced the image) was:
 
-$$\begin{pmatrix}y/c\\\pm vy/c\\y\end{pmatrix}=\begin{pmatrix}-154.3\text{ years ago}\\
-\overset{144.7\times10^{9}{\text{ km}}}{{\pm .0153\text{ light years}}}\\154.3 \text{ light years}\end{pmatrix}$$
+$$
+\begin{pmatrix}y/c\\\pm vy/c\\y\end{pmatrix}=\begin{pmatrix}-154.3\text{ years ago}\\
+\overset{144.7\times10^{9}{\text{ km}}}{{\pm .0153\text{ light years}}}\\154.3 \text{ light years}\end{pmatrix}
+$$
+
 
 We can calculate also 
 $$
 \theta=\frac{\Delta s}{r}=\frac{\Delta x}{\Delta y}=\pm\frac{.0153}{154.3}=\pm 99.2\times 10^{-6}\text{ rad}
 $$
+
 $$
 \pm 99.2\times 10^{-6}\text{ rad}\cdot \frac{180^\degree}{\pi\text{ rad}}\frac{3600''}{1\degree}
-=\pm 20.5''$$
+=\pm 20.5''
+$$
 This angle-change should apply to every star in the sky, regardless of distance.
 
 The location where the star was when it emitted the image changes under [[Galilean Transformation]].  One might say "this is an illusion" but care should be taken to [[Seek Positive Explanations]].   The coordinates of the event where Draconis is expected to be now is not moved at all under the Galilean Transformation.
 
-$$E_\overset{\gamma-\text{Draconis}}{\text{now}}=\begin{pmatrix}t=0\\x=0\\y=154.3 \text{ ly}\end{pmatrix}$$   However, since we will not see this event for 154 years, we cannot even actually say whether the star actually *is* at that location at all.  
+
+
+$$
+E_{\gamma-\text{Draconis-now}}=\begin{pmatrix}t=0\\x=0\\y=154.3 \text{ ly}\end{pmatrix}
+$$
+
+   However, since we will not see this event for 154 years, we cannot even actually say whether the star actually *is* at that location at all.  
 
 But our perspectival change actually represents an actual change in our past.  The star that was moving right from a position to our left is now moving left from a position to our right.  Nothing has changed but our perspective.  See [[Perspective is Real]].  
 
