@@ -1,3 +1,53 @@
+
+
+# Dimensioned Construction
+
+The Minkowski metric in the x-y plane can be given by 
+
+$$
+ds^2=\begin{pmatrix}dt&dx&dy\end{pmatrix}\begin{pmatrix}-c^2&0&0\\0&1&0\\0&0&1\end{pmatrix}\begin{pmatrix}dt\\dx\\dy\end{pmatrix}
+$$
+
+We wish to change from this to polar coordinates where
+
+$$
+t=t
+\\
+x=r\cos(\phi)
+\\y=r\sin(\phi)
+$$
+
+The [[Jacobian]] gives us an efficient use of the chain rule:
+
+$$
+\begin{pmatrix}dt\\dx\\dy\end{pmatrix}=
+\frac{\partial (t, x, y)\downarrow}{\partial (t,r,\phi)\rightarrow}
+\begin{pmatrix}dt\\dr\\d\phi\end{pmatrix}
+\\=\frac{\partial({t,r\cos\phi,r\sin\phi})\downarrow}{\partial(t,r,\phi)\rightarrow}
+\begin{pmatrix}dt\\dr\\d\phi\end{pmatrix}
+\\=\begin{pmatrix}\frac{\partial t}{\partial t}&0&0
+\\0&\frac{\partial{(r\cos\phi)}}{\partial r}&\frac{\partial{(r\cos\phi)}}{\partial \phi}
+\\0&\frac{\partial{(r\sin\phi)}}{\partial r}&\frac{\partial{(r\sin\phi)}}{\partial \phi}
+\end{pmatrix}\begin{pmatrix}dt\\dr\\d\phi\end{pmatrix}
+\\=\overset{\text{Minkowski Polar Jacobian}}{\boxed{\begin{pmatrix}1&0&0\\0&\cos\phi&-r\sin\phi\\0&\sin\phi&r\cos\phi\end{pmatrix}}}
+\begin{pmatrix}dt\\dr\\d\phi\end{pmatrix}
+\\\begin{pmatrix}dt\\dx\\dy\end{pmatrix}=
+\begin{pmatrix}dt\\dr\cos\phi-rd\phi\sin\phi\\dr\sin\phi+rd\phi\cos\phi\end{pmatrix}
+$$
+
+Having solved this, it is still true that 
+
+$$
+ds^2=\begin{pmatrix}dt&dx&dy\end{pmatrix}\begin{pmatrix}-c^2&0&0\\0&1&0\\0&0&1\end{pmatrix}\begin{pmatrix}dt\\dx\\dy\end{pmatrix}
+\\=\begin{pmatrix}dt&dr&d\phi\end{pmatrix}
+\begin{pmatrix}\end{pmatrix}
+\begin{pmatrix}\end{pmatrix}
+$$
+
+
+
+# Unitless Construction
+
 We can begin with the metric expansion of Minkowski coordinates in 2 spatial dimensions:
 
 $$

@@ -13,18 +13,20 @@ $$
 
 Our next objective is to apply another coordinate transformation from the stationary polar coordinates to a set of moving and accelerating points:  
 
-Our "[[avatar]]" is turning counterclockwise with the disk whose angular velocity is $\omega$, so to obtain his [[point-of-view]] we imagine the world turning clockwise, so 
+Our "[[avatar]]" is turning counterclockwise with the disk whose angular velocity is $\omega$, so to obtain his [[point-of-view]] we imagine the world turning clockwise.  We're also assuming that the depth of the rim $\Delta r$ is negligible.  
+
+Rather than just observing the moving points in the distance, let's actually have our rotating avatar [[Imposing vs Acknowledging Coordinates|impose]] his coordinate system onto the points.  That is, he tells the rim observers "Please place clocks and protractors (actually just one giant $2\pi$ protractor) in your space that read my time and my angle measure."
 
 $$
 \overset{\text{avatar}}{\boxed{\phi'}}=\overset{\text{stationary}}{\boxed{\phi}}-\omega t
+\\t'=t
+\\r'=r_\text{rim}
 $$
 
-$$\phi=\phi'+\frac{\omega}{c} (ct)
+$$\phi'+\frac{\omega}{c} (ct)
 \\r=r
 \\ct=\frac{c(\phi-\phi')}{\omega}
 $$
-
-Compare to [[Spin Local Coordinates]]
 
 $$
 d(ct,x,y)\downarrow=
@@ -54,7 +56,7 @@ $$
 \end{pmatrix}
 $$
 
-We can sandwhich this and it's transpose around the [[Minkowski Polar Coordinates]] as
+We can sandwich this and it's transpose around the [[Minkowski Polar Coordinates]] as
 
 $$
 \begin{pmatrix}
@@ -62,24 +64,21 @@ $$
 &\begin{pmatrix}0\\1\\0\end{pmatrix}
 &\begin{pmatrix}0\\0\\1\end{pmatrix}
 \end{pmatrix}
-\begin{pmatrix}-1&0&0\\0&1&0\\0&0&r^2\end{pmatrix}
+{\boxed{\begin{pmatrix}-1&0&0\\0&1&0\\0&0&r^2\end{pmatrix}
 \begin{pmatrix}
 \begin{pmatrix}1&0&-\frac{c}{\omega}\end{pmatrix}
 \\\begin{pmatrix}0&1&0\end{pmatrix}
 \\\begin{pmatrix}0&0&1\end{pmatrix}
-\end{pmatrix}
-=\begin{pmatrix}
+\end{pmatrix}}}
+\\=\begin{pmatrix}
 \begin{pmatrix}1\\0\\-\frac{c}{\omega}\end{pmatrix}
 &\begin{pmatrix}0\\1\\0\end{pmatrix}
 &\begin{pmatrix}0\\0\\1\end{pmatrix}
-\end{pmatrix}\begin{pmatrix}-1&0&\frac{c}{\omega}
+\end{pmatrix}
+{\boxed{\begin{pmatrix}-1&0&\frac{c}{\omega}
 \\0&1&0
-\\0&0&r^2\end{pmatrix}
-$$
-
-
-$$
-=\begin{pmatrix}-1&0&\frac{c}{\omega}
+\\0&0&r^2\end{pmatrix}}}
+\\=\begin{pmatrix}-1&0&\frac{c}{\omega}
 \\0&1&0
 \\\frac{c}{\omega}&0&r^2\left(1-\left(\frac{c}{r\omega}\right)\right)^2
 \end{pmatrix}

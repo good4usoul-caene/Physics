@@ -1,5 +1,6 @@
 
-(May be mergged with [[Jacobians & Coordinate Transformations]])
+(May be merged with [[Jacobians & Coordinate Transformations]])
+Also see [[Einstein Notation]]
 ### Other Descriptions
 
 See [[Einstein Notation]]
