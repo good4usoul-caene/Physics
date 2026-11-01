@@ -128,3 +128,32 @@ $$
 
 What is the "mean velocity" of these two beams on an out and back journey, and compare to the "harmonic mean velocity" and see if they are the same.  I guess that all depends on what you mean by an "out and back journey."  Are you going out and back from/to moving points, or going out and back from/to stationary points?
 
+# The Tangherlini Metric Tensor
+
+Should the following equation be expected to hold for the Tangherlini Metric?
+
+$$
+ds^2=\overset{\begin{pmatrix}dt&dx\end{pmatrix}}{\boxed{(dt',dx')\frac{\partial(t,x)\rightarrow}{\partial(t',x')\downarrow}}}\overset{\eta}{\boxed{\pmatrix{-c^2&0\\0&1}}}
+\overset{d(t,x)\downarrow}{\boxed{\frac{\partial(t,x)\downarrow}{\partial(t',x')\rightarrow}
+d(t',x')\downarrow}}
+\\\equiv\begin{pmatrix}dt&dx\end{pmatrix}\begin{pmatrix}-c^2&0\\0&1\end{pmatrix}\begin{pmatrix}dt\\dx\end{pmatrix}
+$$
+Yes, but the above holds even if we replace $\eta$ with any matrix at all.  Since 
+
+$$\begin{pmatrix}dt\\dx\end{pmatrix}\equiv\begin{pmatrix}\frac{\partial(t,x)\downarrow}{\partial(t',x')\rightarrow}\end{pmatrix}\begin{pmatrix}dt'\\dx'\end{pmatrix}
+$$
+The fact that the equation has the same result when we replace the terms with their exact duplicates should not be surprising.
+
+The question is whether the same metric tensor applies before and after the transformation:
+
+$$
+ds^2=(dt',dx')
+\overset{\eta'}{\boxed{
+\frac{\partial(t,x)\rightarrow}{\partial(t',x')\downarrow}\overset{\eta}{\boxed{\pmatrix{-c^2&0\\0&1}}}
+\frac{\partial(t,x)\downarrow}{\partial(t',x')\rightarrow}
+}}
+d(t',x')\downarrow
+\\\overset ?=\begin{pmatrix}dt'&dx'\end{pmatrix}\overset{\eta'=\eta?}{\boxed{\begin{pmatrix}-c^2&0\\0&1\end{pmatrix}}}\begin{pmatrix}dt'\\dx'\end{pmatrix}
+$$
+
+Another question is "why should it be?"

@@ -19,7 +19,7 @@ $$\frac{d}{dt}\vec p-F=0$$
 $$\vec F=-\frac{d\vec p}{dt}$$
 This is the Impulse Momentum Law
 
-We will want to compare this to [[Minkowski Metric, Kinetic Energy, and Momentum]]
+We will want to compare this to [[Kinetic Energy-Momentum Relation from Minkowski Metric]]
 
 ### Why the minus sign?
 

@@ -1,12 +1,15 @@
-
-On this page, we will essentially obtain the classical mechanics result of 
+On this page, we will obtain the Kinetic Energy/Momentum Relation
 
 $$
 KE=\frac{p^2}{2m}
 $$
+from the Minkowski metric:
 
-by using algebraic manipulation of the [[Minkowski Metric]]
+$$
+(cd\tau)^2=(cdt)^2-dx^2
+$$
 
+by using high-school level algebra, and a few [[Hyperbolic Trig Identities]].
 
 ###  Specific Goals
 
@@ -43,7 +46,7 @@ $$
 
 ### Insert Identities
 
-Use Identities from [[Hyperbolic Trig Identites]] 
+Use Identities from [[Hyperbolic Trig Identities]] 
 
 | Time related Identity       | Momentum Related Identity                                            |
 | --------------------------- | -------------------------------------------------------------------- |

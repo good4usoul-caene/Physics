@@ -24,7 +24,7 @@ Rapidity will be used extensively in the discussions on this site.  The reason f
 
 ==[[rapidity]]==  is to ==Special Relativity== as ==Radians== is to ==Trigonometry== 
 
-See [[Hyperbolic Trig Identites]]
+See [[Hyperbolic Trig Identities]]
 
 ### Bondi k-factor
 The Lorentz Transformations preserve the speed of light, so all $x=ct$ lines and $x=-ct$ lines retain their slope in the spacetime diagram.  If we have two photons going to specific points in space and time, from $(0,0)$ to $(x_l,t_l)$ and $(x_r,t_r)$, we can be sure that $x_l/t_l=-c$ and $x_r/t_r=c$ before the transformation.  We can also be sure that after the transformation,  $x_l'/t_l'=-c$ and $x_r'/t_r'=c$.  The speed of light is conserved.  But how?  Well, as it turns out both $x_l\rightarrow x_l'$ and $t_l\rightarrow t_l'$ either increase or decrease by the same factor.  That factor is $\exp(\pm \eta)$ Likewise, both $x_r\rightarrow x_r'$ and $t_r'\rightarrow t_r'$ decrease or increase by the reciprocal factor.  This factor is sometimes called the Bondi k-factor.

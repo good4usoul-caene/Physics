@@ -10,7 +10,10 @@ Hence the scientific method had essentially killed the Ptolemaic geometry.
 However, in truth, Ptolemaic geometry is not dead.  The Copernican model superior for making predictions because it was simpler.  But this does not actually invalidate the earth centered [[Point-of-View]].  
 
 Quite the contrary, the earth-centered geometry is alive and well in the form of the Earth-Centered Coordinate [[Abbreviations|(ECI)]] system, used to synchronize clocks to Coordinated Universal Time  [[Abbreviations|(UTC)]].
- 
+
+The coordinates of *Right Ascension* and *Declination* are based on the **Earth's** equator and poles.  We could also use [[On the Ecliptic|Ecliptic]] coordinates, where the plane of the earth's orbit around the sun is used, or galactic coordinates, where the plane of the galactic disk is used.  
+
+The motion of planets around the sun are most easily worked out in ecliptic coordinates, while the motion of stars in the galaxy are worked out most easily in galactic coordinates.  
 # Simplest Solution
 
 The simplest solution to predicting the paths of planets around the solar system is to convert our observations to a sun-centered coordinate system, run our modeling there, then convert back to our earth-centered, and ground-centered coordinates to predict what we will actually see from earth's surface.  

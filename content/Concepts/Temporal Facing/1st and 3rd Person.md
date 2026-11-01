@@ -1,4 +1,4 @@
-There are two main ways of thinking of [[Hyperbolic Trig Identites|Rotation]] and [[Boost]].  
+There are two main ways of thinking of [[Hyperbolic Trig Identities|Rotation]] and [[Boost]].  
 
   We can use our muscles to influence what our [[avatar]] does:  I can, for instance, induce my avatar to rotate or accelerate by using my muscles.  When I turn right, the universe around me appears to turn left.  Hence a rotation transformation might have two different domains, depending on the context.
 

@@ -25,7 +25,7 @@
 - [[Schwarzschild Attempt]]
 - [[Lagrangian, Action, and Euler-Lagrange Equations]]
 - [[Taylor and Maclaurin Expansion]]
-- [[Hyperbolic Trig Identites]]
+- [[Hyperbolic Trig Identities]]
 - [[Lorentz Transformation]]
 - [[Jacobians & Coordinate Transformations]], [[Jacobian]], [[Einstein Notation]] , [[Differential Path Elements]]
 - [[Polar to Rectangular Transformation]], [[Spherical to Rectangular Coordinates]]

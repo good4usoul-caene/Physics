@@ -1,5 +1,5 @@
 Logical Foundations:  [[Lorentz Transformations]]
-Analogy with Rotation  [[Hyperbolic Trig Identites]]
+Analogy with Rotation  [[Hyperbolic Trig Identities]]
 Temporal Facing:  [[1st and 3rd Person]]
 
 ### Matrix Forms

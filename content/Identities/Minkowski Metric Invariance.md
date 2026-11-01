@@ -22,6 +22,5 @@ $$=\begin{pmatrix}ct&x\end{pmatrix}\begin{pmatrix}-\gamma^2+\sigma^2&(1-1)\sigma
 
 $$=\begin{pmatrix}-1&0\\0&1\end{pmatrix}$$
 
-### Why that's not what we wanted:
-The Jacobian should be
+
 
